@@ -3,6 +3,16 @@
    <description></description>
    <name>Sample Test Case 825</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>12448</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>ca46c88d-e3f0-438d-ad92-c28ad442dcae</testCaseGuid>
 </TestCaseEntity>
