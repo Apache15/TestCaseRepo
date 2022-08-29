@@ -6,6 +6,7 @@
    <UUID>fba83e15-82f6-4ef6-8169-99ee2f8360e4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\blake.engrav\git\TestCaseRepo\Starter Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
