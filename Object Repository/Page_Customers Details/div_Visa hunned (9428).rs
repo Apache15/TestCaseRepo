@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Visa hunned (9428)</name>
+   <tag></tag>
+   <elementGuidId>65bf040e-95d5-4f9f-8aee-4064b893ac53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-7']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-select-value-7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc6f32b2-0dd9-40ac-af95-9bb4ec862cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-value ng-tns-c125-56</value>
+      <webElementGuid>c8ad0127-9aef-48c5-8bd2-43074fbf09b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-select-value-7</value>
+      <webElementGuid>5e750633-cc5e-442b-8992-bf96ec0e65b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visa hunned (*9428)</value>
+      <webElementGuid>dc8e8d47-783f-41db-ae8c-d3f3c241bef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-7&quot;)</value>
+      <webElementGuid>2f75716b-0992-476b-b9c4-ec97dba50c17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-7']</value>
+      <webElementGuid>658e43ae-3965-4632-8473-68cb14d06ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='mat-select-6']/div/div</value>
+      <webElementGuid>3ccc29ae-c385-4fa3-81a6-8785722f0457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::div[12]</value>
+      <webElementGuid>871c5ce6-e55b-4a25-812d-59570a0e766b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Payment Method'])[1]/preceding::div[3]</value>
+      <webElementGuid>3fe458c5-5059-4e2f-a4af-c84fe342b53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/mat-form-field/div/div/div/mat-select/div/div</value>
+      <webElementGuid>d160bedb-af4e-4a1a-a96a-acd291fb4560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mat-select-value-7' and (text() = 'Visa hunned (*9428)' or . = 'Visa hunned (*9428)')]</value>
+      <webElementGuid>b84065a1-4c65-43d9-b668-0fdeb01f81a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

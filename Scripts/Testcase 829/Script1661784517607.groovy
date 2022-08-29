@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Enter Email_m
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1'), 'p4y+y39Ir5M+OEhtE99IdA==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Page_Sign In/span_Sign In'))
 
 WebUI.click(findTestObject('Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc'))
 
@@ -33,21 +33,21 @@ WebUI.click(findTestObject('Object Repository/Page_Overview/button_Customers'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers/a_company that REALLY loves invoices'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/td_INV-002540'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/td_INV-002544'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Pay'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Wallet_mat-select-placeholder mat-sele_4fa54e'))
 
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Visa hunned (9428)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Visa hunned (9428)'))
+
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_test (1111)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 83.00_mat-input-9'), '1')
+WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 100.00_mat-input-9'), '1')
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Amount'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Invoices INV-002540  Due 06-30-2022  Ba_52104d'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Next'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Next'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Confirm'))
 

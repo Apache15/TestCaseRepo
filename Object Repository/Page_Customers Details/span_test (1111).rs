@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_test (1111)</name>
+   <tag></tag>
+   <elementGuidId>4a5fbb22-300c-42d2-a43a-6ee2b5a61f06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-16']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-16 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fe9ab9e-c42b-465e-9d5c-de5f67568424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>aeb94aa9-275d-4d26-b6ec-36c12ac17307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> test (*1111) </value>
+      <webElementGuid>80e967f2-9ef0-4c8b-8fd1-fb247f8aa421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-16&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>ec0f2d73-81e0-4911-bc66-ec93c3435b80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-16']/span</value>
+      <webElementGuid>7579279b-bb86-4763-8156-a733ade0d6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='§Ü§ (*1111)'])[2]/following::span[1]</value>
+      <webElementGuid>c0eb68da-8eb0-4066-8f2a-970230374218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card that is about to expire (*1111)'])[2]/following::span[2]</value>
+      <webElementGuid>f4a7d664-71d1-46f3-ba7f-f53d38de2040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span</value>
+      <webElementGuid>1a59fda5-52a2-47fe-9774-4d1a390401ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' test (*1111) ' or . = ' test (*1111) ')]</value>
+      <webElementGuid>899d9e39-8025-4baa-895d-aaaf2ea121f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

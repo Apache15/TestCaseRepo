@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Schedule PaymentOffOnSubtotal1.00Adjust_1ba015</name>
+   <tag></tag>
+   <elementGuidId>c4d9ff57-e07a-46d3-a9a6-335a473046ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-0']/form/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e591be89-3dca-40e9-9379-ee4d6ae1acee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detailContentSpacing</value>
+      <webElementGuid>b9adbd17-b04c-49a8-bc3a-b30968fd19f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule PaymentOff OnSubtotal$1.00Adjustments$0.02Grand Total$1.02</value>
+      <webElementGuid>bfd0e2ba-20ec-4eb9-a30b-f4b8f2ae7508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;detailContentSpacing&quot;]</value>
+      <webElementGuid>afd9b311-fccc-4714-a299-c7480cdb0246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-0']/form/div[2]</value>
+      <webElementGuid>ca774909-e18b-4eff-b545-3deb4c48f890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::div[5]</value>
+      <webElementGuid>a4286fbb-867f-42ad-9872-97a39df17b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance: $100.00'])[1]/following::div[9]</value>
+      <webElementGuid>f81b45c9-28a9-4613-98c2-d48bcb826480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>5322d6a4-2337-434d-8897-6ae636daa945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Schedule PaymentOff OnSubtotal$1.00Adjustments$0.02Grand Total$1.02' or . = 'Schedule PaymentOff OnSubtotal$1.00Adjustments$0.02Grand Total$1.02')]</value>
+      <webElementGuid>c27713af-01cc-4431-8f8e-dbd9c4d1f993</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

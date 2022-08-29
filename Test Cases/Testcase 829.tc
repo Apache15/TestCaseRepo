@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Sample Test Case 825</name>
+   <name>Testcase 829</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>
@@ -14,5 +14,5 @@
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
-   <testCaseGuid>ca46c88d-e3f0-438d-ad92-c28ad442dcae</testCaseGuid>
+   <testCaseGuid>f12a4640-a07c-4990-9067-b4bd88c92457</testCaseGuid>
 </TestCaseEntity>

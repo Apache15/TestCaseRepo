@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 825,Chrome 99.0.4844.51,,,2022-08-25 11:16:35,2022-08-25 11:17:02,26.699s,PASSED
+,,,,,,,
+Test Cases/Sample Test Case 825,Chrome 99.0.4844.51,,,2022-08-25 11:16:35,2022-08-25 11:17:02,26.435s,PASSED
+"openBrowser("""")",Chrome 99.0.4844.51,,,2022-08-25 11:16:36,2022-08-25 11:16:39,2.978s,PASSED
+"navigateToUrl(""https://testsage-walker.dev-connectboosterportal.com/platform/login"")",Chrome 99.0.4844.51,,,2022-08-25 11:16:39,2022-08-25 11:16:42,2.894s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Enter Email_mat-input-0""), ""blake.engrav@bngholdingsinc.com"")",Chrome 99.0.4844.51,,,2022-08-25 11:16:42,2022-08-25 11:16:44,2.040s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1""), ""p4y+y39Ir5M+OEhtE99IdA=="")",Chrome 99.0.4844.51,,,2022-08-25 11:16:44,2022-08-25 11:16:44,0.611s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/span_Sign In""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:44,2022-08-25 11:16:45,0.562s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:45,2022-08-25 11:16:49,3.592s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Customers""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:49,2022-08-25 11:16:50,0.926s,PASSED
+"click(findTestObject(""Object Repository/Page_Customers/a_Ravnica Construction Co""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:50,2022-08-25 11:16:51,0.973s,PASSED
+"click(findTestObject(""Object Repository/Page_Customers Details/button_Open Invoices_mat-focus-indicator ma_e209a1""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:51,2022-08-25 11:16:53,2.140s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/span_MORE""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:53,2022-08-25 11:16:54,0.864s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Open Invoices/button_Pay""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:54,2022-08-25 11:16:56,2.089s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Pay""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:56,2022-08-25 11:16:57,0.995s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/div_VISA200 BAD (3863)_mat-select-arrow ng-_b7b409""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:57,2022-08-25 11:16:57,0.732s,PASSED
+"setText(findTestObject(""Object Repository/Page_Open Invoices/input_Balance 10.00_mat-input-11""), ""1"")",Chrome 99.0.4844.51,,,2022-08-25 11:16:57,2022-08-25 11:16:58,0.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Next""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:58,2022-08-25 11:16:59,0.521s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Confirm""))",Chrome 99.0.4844.51,,,2022-08-25 11:16:59,2022-08-25 11:17:00,0.939s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Open Invoices/div_Error Cannot Use Locked Payment Method _3e33d2""))",Chrome 99.0.4844.51,,,2022-08-25 11:17:00,2022-08-25 11:17:00,0.826s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/div_Error Cannot Use Locked Payment Method _3e33d2""))",Chrome 99.0.4844.51,,,2022-08-25 11:17:00,2022-08-25 11:17:01,0.387s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/span_Close""))",Chrome 99.0.4844.51,,,2022-08-25 11:17:01,2022-08-25 11:17:01,0.407s,PASSED
+closeBrowser(),Chrome 99.0.4844.51,,,2022-08-25 11:17:01,2022-08-25 11:17:02,0.752s,PASSED
