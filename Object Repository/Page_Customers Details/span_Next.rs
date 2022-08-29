@@ -6,16 +6,48 @@
    <elementGuidId>7c2883dc-416e-4438-b037-3e094c89462a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='cdk-step-content-0-0']/form/div[3]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3aa02470-9568-4b26-b12c-0da149c24034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>ef1ee7c9-cac6-4102-b154-ed7a64971b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>29bb30dc-6d86-451a-8594-af73c4adf08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;detailContentSpacing detailFooter&quot;]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>99a92660-6b12-4d1d-9f8e-1f96f36bb840</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>e6816df1-b8f3-420d-9087-16eb0a2fbd90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-0']/form/div[3]/button[2]/span</value>
-      <webElementGuid>073522b5-ed84-4820-b92c-dcac7af6d050</webElementGuid>
+      <webElementGuid>6ee0292d-6515-45f2-83c3-0d3cb1d96093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[3]</value>
-      <webElementGuid>030136cb-6909-490e-b9d1-8e9bcf7aa2a3</webElementGuid>
+      <webElementGuid>17231916-c904-4381-8d34-5ec0840a43c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.02'])[1]/following::span[4]</value>
+      <webElementGuid>12690a03-bafa-4a92-9689-b596478eb73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Payment:'])[1]/preceding::span[3]</value>
+      <webElementGuid>7d2abd06-8235-4118-b451-a2d09ad37980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.02'])[2]/preceding::span[3]</value>
+      <webElementGuid>3b1341b9-b6f8-4416-9c32-fb9b675ce922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>977d3ee2-34f8-4365-b0df-38c36a0ab924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button[2]/span</value>
+      <webElementGuid>d3b2646a-179e-4f44-ae9d-a4daaf115935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>2167f4b8-0e66-4549-8c50-bfd1f1d69df0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,39 +157,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Payment:'])[1]/preceding::span[3]</value>
-      <webElementGuid>f20feaa6-6ea2-4c2d-bf50-357ec218d45a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$3.06'])[2]/preceding::span[3]</value>
       <webElementGuid>be994737-c85f-4e29-b73e-28609f12aaa2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>99b43db0-e885-4268-b97f-f128d730550f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//form/div[3]/button[2]/span</value>
-      <webElementGuid>112cba1f-9e69-49b9-918d-de44a4676c4a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>a9b93acb-02ba-4f09-806d-95318899513d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

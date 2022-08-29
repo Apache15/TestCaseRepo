@@ -27,27 +27,31 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Plea
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_Overview/path'))
+WebUI.click(findTestObject('Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc'))
 
 WebUI.click(findTestObject('Object Repository/Page_Overview/button_Customers'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers/a_company that REALLY loves invoices'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_MORE'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/td_INV-002540'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Pay'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Pay'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Wallet_mat-select-placeholder mat-sele_4fa54e'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Visa hunned (9428)'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_test (1111)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 91.00_mat-input-9'), '3')
+WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 83.00_mat-input-9'), '1')
+
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Amount'))
+
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Invoices INV-002540  Due 06-30-2022  Ba_52104d'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Confirm'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Confirm'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Close'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Error Issuer Declined'))
 
 WebUI.closeBrowser()
 

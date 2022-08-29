@@ -6,16 +6,64 @@
    <elementGuidId>aef55052-7dd5-4376-bacd-876b58545aef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.mat-select-placeholder.mat-select-min-line.ng-tns-c125-56.ng-star-inserted</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='mat-select-value-7']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-placeholder.mat-select-min-line.ng-tns-c125-56.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b80a946-21d3-4596-81ea-4e630e3d1775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted</value>
+      <webElementGuid>7643be22-9c07-427c-b662-131bd968c18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-7&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted&quot;]</value>
+      <webElementGuid>b8df8502-c5ec-4e8b-a575-169a165a88c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2aadc39f-9751-4e46-826a-65d138f53dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted</value>
+      <webElementGuid>f3485c8b-ce94-4859-8ac8-7543f140b5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-7&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted&quot;]</value>
+      <webElementGuid>88050ac1-1cd4-4368-8dd0-a65c15ce4482</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>7989c91a-dfce-417f-bffe-ad314055538a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-7']/span</value>
-      <webElementGuid>26e0c066-ef59-4f68-b7b9-c4f31fa84891</webElementGuid>
+      <webElementGuid>7c92934d-8289-4236-ad05-042c2c3b79c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::span[4]</value>
-      <webElementGuid>5c3ce777-8ee4-468a-b809-f731e99f6773</webElementGuid>
+      <webElementGuid>0da9c6a3-abf2-4afe-a2e5-4ffa61360ba7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Payment Method'])[1]/preceding::span[1]</value>
-      <webElementGuid>8444077d-ff15-46fc-9edf-d95f67d97990</webElementGuid>
+      <webElementGuid>794e5fe2-09fa-44d8-a6b2-b9c84ef2d791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/preceding::span[3]</value>
-      <webElementGuid>533901e1-7e14-49d6-b73b-e36cb5e21d59</webElementGuid>
+      <webElementGuid>2a227425-604f-483b-bd15-3e68120182d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +126,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/mat-form-field/div/div/div/mat-select/div/div/span</value>
-      <webElementGuid>de083cfa-a250-4fe5-b972-dd72390cbeb1</webElementGuid>
+      <webElementGuid>3df5444b-064d-44b6-9f42-474c1fd8959b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>f71f711f-60ce-4a97-af57-d4467eb5ebcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>880e2a83-5ae9-4328-b587-02dcdbfd4ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Visa hunned (*9428) </value>
+      <webElementGuid>6d8bd2a2-cf71-47b6-ac08-7a92e6be7561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-13&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c5f9c877-a2e0-4e1d-901a-7f4059fb16fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>246f2aa3-e7ea-4f78-8db5-4f3631441420</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>9ed925e5-ba7a-42d7-adbb-12700b20f451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-13']/span</value>
-      <webElementGuid>2f4cbf7d-46f1-4eed-a56b-1f318ac6d2f6</webElementGuid>
+      <webElementGuid>b09321c0-5f4c-45e1-8fd2-bd2af9561f7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[3]</value>
-      <webElementGuid>2fbdffaa-524a-499c-9068-4e0c29a30640</webElementGuid>
+      <webElementGuid>702fcb28-7c10-4d8d-99c3-8274a145a4f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::span[6]</value>
-      <webElementGuid>e564638a-c89d-4a97-bea5-46301fd65779</webElementGuid>
+      <webElementGuid>4e42fa0c-415c-4f46-98ec-63a8b2ae15f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Card that is about to expire (*1111)'])[2]/preceding::span[1]</value>
-      <webElementGuid>0f7a3e01-465b-4d25-843c-d91c5a26bc8f</webElementGuid>
+      <webElementGuid>6e5c905b-73bf-42c7-b8de-2d13f2ae50a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='§Ü§ (*1111)'])[2]/preceding::span[2]</value>
-      <webElementGuid>b889908b-705a-4f5c-88af-cd5041bf2a1d</webElementGuid>
+      <webElementGuid>df58bb7e-586c-4308-978e-95c17e2d9c39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option/span</value>
-      <webElementGuid>2acd9242-caab-4a75-b744-a867699913a4</webElementGuid>
+      <webElementGuid>2b0599cc-20d1-46bd-9d3d-c8c36e4fa7df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Visa hunned (*9428) ' or . = ' Visa hunned (*9428) ')]</value>
-      <webElementGuid>472d87ca-018e-4a42-88d7-e45d74dc0933</webElementGuid>
+      <webElementGuid>73a90e66-e32e-452c-94f0-f2374b9f1f3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
