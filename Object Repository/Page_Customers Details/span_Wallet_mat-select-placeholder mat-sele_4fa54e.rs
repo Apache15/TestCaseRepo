@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Wallet_mat-select-placeholder mat-sele_4fa54e</name>
    <tag></tag>
-   <elementGuidId>aef55052-7dd5-4376-bacd-876b58545aef</elementGuidId>
+   <elementGuidId>a4dd062e-8d26-4ba1-99c8-3b4ef7cc6ec0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5b80a946-21d3-4596-81ea-4e630e3d1775</webElementGuid>
+      <webElementGuid>3201b18a-e07b-4bc4-a487-5cfaca64380e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted</value>
-      <webElementGuid>7643be22-9c07-427c-b662-131bd968c18b</webElementGuid>
+      <webElementGuid>57a65551-c77f-48ff-8819-c19ab440a13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,55 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-7&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted&quot;]</value>
-      <webElementGuid>b8df8502-c5ec-4e8b-a575-169a165a88c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>2aadc39f-9751-4e46-826a-65d138f53dcc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted</value>
-      <webElementGuid>f3485c8b-ce94-4859-8ac8-7543f140b5d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;mat-select-value-7&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted&quot;]</value>
-      <webElementGuid>88050ac1-1cd4-4368-8dd0-a65c15ce4482</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>45754950-fdb1-467d-b568-2447f83e730c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted</value>
-      <webElementGuid>7989c91a-dfce-417f-bffe-ad314055538a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;mat-select-value-7&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-56 ng-star-inserted&quot;]</value>
-      <webElementGuid>0d924bff-1257-4e6a-aa6a-7b676266eb47</webElementGuid>
+      <webElementGuid>917ac021-ce9f-4731-9c1e-a21ca96ac6e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-7']/span</value>
-      <webElementGuid>7c92934d-8289-4236-ad05-042c2c3b79c2</webElementGuid>
+      <webElementGuid>90050f4a-ef2b-40c5-8aa2-65a443f70ce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::span[4]</value>
-      <webElementGuid>0da9c6a3-abf2-4afe-a2e5-4ffa61360ba7</webElementGuid>
+      <webElementGuid>1ff9c19c-26d2-4671-ae51-2a300fe84004</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Payment Method'])[1]/preceding::span[1]</value>
-      <webElementGuid>794e5fe2-09fa-44d8-a6b2-b9c84ef2d791</webElementGuid>
+      <webElementGuid>d4ff1401-fbf9-4197-ad08-7a3c14de8b22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/preceding::span[3]</value>
-      <webElementGuid>2a227425-604f-483b-bd15-3e68120182d2</webElementGuid>
+      <webElementGuid>9ce57404-38e7-40cb-90d4-d28d16697d1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/mat-form-field/div/div/div/mat-select/div/div/span</value>
-      <webElementGuid>3df5444b-064d-44b6-9f42-474c1fd8959b</webElementGuid>
+      <webElementGuid>4e20cc9e-3a71-42a3-86e4-cfeb7732872b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
