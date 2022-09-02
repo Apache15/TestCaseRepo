@@ -6,16 +6,40 @@
    <elementGuidId>34974b2f-5e4a-41ce-8d4e-34b9eacf2807</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-toolbar[@id='mainHeaderNav']/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.headerLeft.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-toolbar[@id='mainHeaderNav']/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fb20efbe-0c5c-4ad2-9650-13ca7c295c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>e584731a-4d97-48f9-944b-6d2131af0575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeaderNav&quot;)/button[@class=&quot;mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>c8d069ef-80cf-4959-b718-1fbfb8b3f55d</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +57,7 @@
       <webElementGuid>30b25c66-9fdb-49cb-8914-ce213e7cf8e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -142,7 +166,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-toolbar[@id='mainHeaderNav']/button</value>
-      <webElementGuid>ef704236-7daa-4240-a67b-cdcbd3381224</webElementGuid>
+      <webElementGuid>ebf03e41-181f-4c35-8301-c05de4abd53a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
-      <webElementGuid>3940b3ff-ddfd-448d-9a4b-b555170ca482</webElementGuid>
+      <webElementGuid>76e21403-686a-4b34-8788-8d00563f8f92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::button[2]</value>
-      <webElementGuid>aec7809d-93f4-4a4d-b662-8b08b56d980d</webElementGuid>
+      <webElementGuid>617bb6c3-38e0-4c30-b9f8-09d7454afd17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments Failing To Sync!'])[1]/preceding::button[4]</value>
-      <webElementGuid>5f137665-7c2c-485c-885d-097b8d38b916</webElementGuid>
+      <webElementGuid>341f3dd4-b4d3-4d8c-859f-da7494dd7a5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve Now'])[1]/preceding::button[4]</value>
-      <webElementGuid>3c31db4b-4c3b-441d-a3a4-43a7496cc439</webElementGuid>
+      <webElementGuid>475a6441-1a48-47b5-86a5-4a7d8dc686eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +206,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-toolbar/button</value>
-      <webElementGuid>833c0e20-85a0-49e3-910e-4a11fafc55b7</webElementGuid>
+      <webElementGuid>3602fb50-8bbf-451a-96ab-414d1598742e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

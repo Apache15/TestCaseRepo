@@ -6,16 +6,104 @@
    <elementGuidId>96660c66-6fb5-4e26-88d4-0233bd256972</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='mat-input-1']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#mat-input-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='mat-input-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>39be825a-2461-4413-9686-363878886e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>passwordControl</value>
+      <webElementGuid>ffd370ab-e77b-431a-a5ba-9e61dd904f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>a9b156eb-63e8-492d-a072-99ef57d574ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c73-1 ng-untouched cdk-text-field-autofill-monitored ng-dirty ng-valid</value>
+      <webElementGuid>f37c4491-ff5a-4320-b70e-02d272a93803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>mat-hint-1</value>
+      <webElementGuid>d2fb5fb4-4c75-42f8-bf41-54f678257b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-input-1</value>
+      <webElementGuid>628bf813-1d98-489d-b130-1c64d063e76a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>Enter password</value>
+      <webElementGuid>bc7bce6d-c1b8-4333-ba5e-abcabf66a8d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2af65191-4714-4512-af96-0bd311ab777c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter password</value>
+      <webElementGuid>e87e8c56-6ead-4fa5-84a0-ce3141eeeb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>da405831-ae89-4d8e-a89a-37ca60f53faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-input-1&quot;)</value>
+      <webElementGuid>a001f52e-9299-45eb-a4a5-e4ce3d4136e7</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +121,7 @@
       <webElementGuid>6e257d40-9532-4967-8527-df15c7ec32c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -57,7 +145,7 @@
       <webElementGuid>45a7ea30-b428-48bc-bf60-8ea22d4cde82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -81,7 +169,7 @@
       <webElementGuid>55475562-88c0-4ec8-a6d5-3a8a7b1d11c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -462,7 +550,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mat-input-1']</value>
-      <webElementGuid>519c36a8-a467-411f-8993-4afcbfafbdb3</webElementGuid>
+      <webElementGuid>5cde218f-306a-45cf-a9cb-abbfb775545b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -470,7 +558,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-form-field[2]/div/div/div/input</value>
-      <webElementGuid>848d349a-1f96-4be7-8c40-ee807dc28273</webElementGuid>
+      <webElementGuid>33f6c2ec-706a-4433-bc46-0526b63ac5d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -478,6 +566,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'mat-input-1' and @placeholder = 'Enter password']</value>
-      <webElementGuid>d32d43a1-4111-4100-b483-8555b3fe864d</webElementGuid>
+      <webElementGuid>ef5f2a37-b90e-4212-bcff-589a0c456f31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

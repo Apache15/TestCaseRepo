@@ -4,14 +4,23 @@
    <name>button_Close</name>
    <tag></tag>
    <elementGuidId>2f8e8708-be3b-45eb-85e6-7165a7e48d20</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cdk-step-content-0-2']/form/div[2]/button</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Close' or . = 'Close')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-2']/form/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>99ae83e3-417c-4fa8-bed6-4e365f03d5d3</webElementGuid>
+      <webElementGuid>33872881-4eec-4223-a491-d7278e6cde70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +39,7 @@
       <name>color</name>
       <type>Main</type>
       <value>accent</value>
-      <webElementGuid>3f0f7b6e-d530-4003-a179-8077df16528f</webElementGuid>
+      <webElementGuid>3cda1d89-8220-40e0-9789-1a220a7fc3ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>cee4d537-fb66-417d-9a55-eb6fe38992d6</webElementGuid>
+      <webElementGuid>ac7a5d34-325d-44e5-8801-8a6c4d5dcf4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>cec89a6a-a242-45e1-878e-78dadc0d0145</webElementGuid>
+      <webElementGuid>d9510d26-e488-4945-b7c8-b2fc205cf4c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,47 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-step-content-0-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;confirmationContentSpacing confirmationFooter ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>07b1079d-857a-402b-83a1-ee7ae51536ce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>8bdaca25-12bc-42a7-a6bc-0935a20368e2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>color</name>
-      <type>Main</type>
-      <value>accent</value>
-      <webElementGuid>70dee983-96e9-49c3-a180-b2f51bb84ad7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>687e9048-10eb-492b-85bf-c026fd7b91e2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>18c9f392-a8dc-417d-b44c-bddd5ec01424</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;cdk-step-content-4-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;confirmationContentSpacing confirmationFooter ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>6ebd51f8-cc7b-497d-a6aa-0d83dbf0b5c1</webElementGuid>
+      <webElementGuid>0844b478-3efa-4266-815f-0f5a839c3ba9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-2']/form/div[2]/button</value>
-      <webElementGuid>e38780bf-f996-4546-b680-a66752ab91f9</webElementGuid>
+      <webElementGuid>dd8665b0-c47d-4c0d-921e-2b9757b1f535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Send copy:'])[1]/following::button[2]</value>
-      <webElementGuid>7a86209e-7f64-40c2-8ee5-31f2cab3fe65</webElementGuid>
+      <webElementGuid>7e060cf9-f6d0-4f6a-8b71-e1f47a1bab21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='blake.engrav@bngholdingsinc.com'])[1]/following::button[2]</value>
-      <webElementGuid>ab61459d-c75d-481b-b628-7821514abb10</webElementGuid>
+      <webElementGuid>b85a6850-2d9f-4534-90e3-a81afaba1eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/form/div[2]/button</value>
-      <webElementGuid>b729a648-4925-42cf-acdf-37898c838982</webElementGuid>
+      <webElementGuid>f5bd07e2-d278-4ec7-aefd-1f1a1ac22986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +103,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>0c3fd3fe-4bb9-447d-9f4b-2c433ffddea9</webElementGuid>
+      <webElementGuid>d89b35f4-031c-4120-a49e-c7fcfe9f154c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +111,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-4-2']/form/div[2]/button</value>
-      <webElementGuid>3882a521-94f7-44e0-8e6e-27e23368de26</webElementGuid>
+      <webElementGuid>a1163644-4517-4a15-8186-672f87aae530</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

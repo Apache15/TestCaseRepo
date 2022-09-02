@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay Selected</name>
+   <tag></tag>
+   <elementGuidId>a9dde687-50d0-483a-a24b-b2172dea8a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.paySelectedColor.mat-raised-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='open-invoices']/mat-card/app-open-customer-invoices/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cac19069-c813-4a3c-b7c6-ee1f6ece4be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator paySelectedColor mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>c6047721-2abe-4454-a1e0-d98797a216e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Selected</value>
+      <webElementGuid>e3b87264-1b95-4ab7-9374-60a64a216715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;open-invoices&quot;)/mat-card[@class=&quot;mat-card mat-focus-indicator content&quot;]/app-open-customer-invoices[1]/button[@class=&quot;mat-focus-indicator paySelectedColor mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>5e72ff19-74f7-49a6-9a2d-c14fc6ef1714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='open-invoices']/mat-card/app-open-customer-invoices/button</value>
+      <webElementGuid>e45b497b-1092-44b5-9350-327bc4bc269d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Invoices'])[1]/following::button[1]</value>
+      <webElementGuid>cdd832f0-266c-4ae9-a9f4-e6718f9ee0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# OF INVOICES'])[1]/following::button[2]</value>
+      <webElementGuid>94bbc12e-d9f6-40ba-872c-e1a46e58ee74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Number'])[1]/preceding::button[1]</value>
+      <webElementGuid>6c0af2a2-4431-4947-a10a-c5975ed16456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-open-customer-invoices/button</value>
+      <webElementGuid>53198ce5-d1a3-437f-9d5c-9839599ab8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pay Selected' or . = 'Pay Selected')]</value>
+      <webElementGuid>537f7ee2-dc7d-4417-8415-49f003ca182d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

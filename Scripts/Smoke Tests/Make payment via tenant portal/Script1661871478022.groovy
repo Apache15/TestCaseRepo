@@ -33,27 +33,27 @@ WebUI.click(findTestObject('Object Repository/Page_Overview/button_Customers'))
 
 WebUI.click(findTestObject('Object Repository/Page_Customers/a_Sun Microsystems - EBC'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Open Invoices'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Pay Selected_mat-checkbox-inner-contai_9fc261'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Open Invoices_mat-focus-indicator ma_e209a1'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Pay Selected_mat-checkbox-inner-contai_9fc261'))
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/td_INV-002647'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Due Date_mat-checkbox-inner-container _e437c9'))
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/button_Pay'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Pay Selected'))
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/div_Select Payment Method'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Wallet_mat-select-placeholder mat-sele_00f159'))
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/span_VISA 100 (9428)'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_VISA 100 (9428)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Open Invoices/input_Balance 249,999.00_mat-input-9'), '2')
+WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 249,988.00_mat-input-7'), '2')
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/button_Next'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/button_Confirm'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Confirm'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Open Invoices/div_Payment Successful'), 10)
+WebUI.waitForElementPresent(findTestObject('Page_Customers Details/div_Payment Successful'), 10)
 
-WebUI.click(findTestObject('Object Repository/Page_Open Invoices/button_Close'))
+WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Payment Successful'))
 
 WebUI.closeBrowser()
 

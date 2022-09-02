@@ -6,12 +6,16 @@
    <elementGuidId>b7353664-aad6-4740-814c-107196b6f53c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cdk-step-content-0-1']/form/div[2]/button[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Confirm' or . = 'Confirm')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-1']/form/div[2]/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a39c6375-0957-43c6-b991-513ce5ee40d9</webElementGuid>
+      <webElementGuid>467e2f7d-af81-40ba-94bf-f0bbb42b1546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>color</name>
       <type>Main</type>
       <value>primary</value>
-      <webElementGuid>63466dfb-4879-4488-bc84-e80ea9cd09bf</webElementGuid>
+      <webElementGuid>94a11aae-3385-4bb1-98a2-d66fa19478be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>e63481b4-8690-46e4-96cc-ccd812a840b2</webElementGuid>
+      <webElementGuid>8d4624e2-4297-4ad8-a26d-17961c59eefd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>42011730-ecf9-4f1f-8c7f-72c8646f066e</webElementGuid>
+      <webElementGuid>8d495adb-22e8-4588-b217-9635e5f25682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,47 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cdk-step-content-0-1&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;summaryContentSpacing summaryFooter ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>cf8a8f1c-478d-4516-8b86-01a210fa0225</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>9d50e9dd-31f9-498c-98f9-58a235178d74</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>color</name>
-      <type>Main</type>
-      <value>primary</value>
-      <webElementGuid>88a1b915-a907-4f79-b7cb-f5b8a93addda</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused</value>
-      <webElementGuid>be8a6da9-4d0f-4135-94ee-9d57293aa768</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Confirm</value>
-      <webElementGuid>cb386421-f999-42dc-bc15-5afdb3a287d6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;cdk-step-content-4-1&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;summaryContentSpacing summaryFooter ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]</value>
-      <webElementGuid>895e00d6-02b4-47fb-820e-bb7bc264314b</webElementGuid>
+      <webElementGuid>188f521a-2374-4bc7-b53d-ce37561847fe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-1']/form/div[2]/button[2]</value>
-      <webElementGuid>981764f0-2928-4e8b-99ab-3f3384c3ce8a</webElementGuid>
+      <webElementGuid>2df52ebe-e0cb-4a8f-bff8-bb568143b598</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>b45525ab-278b-4a2b-a599-905099fca88d</webElementGuid>
+      <webElementGuid>92479469-d12a-4628-bfb3-e41e86b5e20d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::button[2]</value>
-      <webElementGuid>261c95bf-7be0-487e-8c0d-5ca365b578c7</webElementGuid>
+      <webElementGuid>8ef2e10c-5f37-45c5-8859-1e2278c82a31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
-      <webElementGuid>c8b94d40-1cf5-4734-b7c4-01d579118dd9</webElementGuid>
+      <webElementGuid>a14230c8-43e9-4d47-b9a4-faa04cee9720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/button[2]</value>
-      <webElementGuid>7a06f8d0-c5c1-416f-93e8-2c46f9c36de3</webElementGuid>
+      <webElementGuid>73e551d0-32c2-4e29-bb23-fc681a4280de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +106,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>2c396308-2102-43a8-b233-ed04911ff6c3</webElementGuid>
+      <webElementGuid>fa98d957-1a0b-4e5f-8222-739dec28596c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +114,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-4-1']/form/div[2]/button[2]</value>
-      <webElementGuid>90101faf-aa35-4d37-a5ec-a2e519f72c86</webElementGuid>
+      <webElementGuid>2ac57f81-31a4-4ca2-9250-0d0fca24c6a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
