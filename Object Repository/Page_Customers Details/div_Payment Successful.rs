@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cdk-step-content-0-2']/form/div/div/div/div/div[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='$2.00'])[5]/preceding::div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
