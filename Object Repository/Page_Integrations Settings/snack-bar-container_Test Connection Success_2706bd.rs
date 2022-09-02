@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>snack-bar-container_Test Connection Success_2706bd</name>
+   <tag></tag>
+   <elementGuidId>bcf78e1f-010e-4cb1-bf87-1d503b6fd819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']/snack-bar-container</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>snack-bar-container.mat-snack-bar-container.ng-tns-c146-53.ng-trigger.ng-trigger-state.snackbar-success.mat-snack-bar-center.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>snack-bar-container</value>
+      <webElementGuid>f1c351b9-6d98-4701-af9d-0ae8db6297d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-snack-bar-container ng-tns-c146-53 ng-trigger ng-trigger-state snackbar-success mat-snack-bar-center ng-star-inserted</value>
+      <webElementGuid>c8fc3ce7-3fd0-4408-896d-67e8051e16ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Connection Successful Close </value>
+      <webElementGuid>b6afa5bd-c50a-45a6-bc59-f541aae1da87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c146-53 ng-trigger ng-trigger-state snackbar-success mat-snack-bar-center ng-star-inserted&quot;]</value>
+      <webElementGuid>466a85a2-947c-4470-a244-58dafeba84f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/snack-bar-container</value>
+      <webElementGuid>f897bdc0-0c5e-4a52-8f8f-8d44d786f188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::snack-bar-container[1]</value>
+      <webElementGuid>369406e2-0d1c-4e92-bed3-3683f5e49766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ConnectBooster Academy'])[1]/following::snack-bar-container[1]</value>
+      <webElementGuid>282494da-0bfa-4574-ae1f-af37cefd3e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//snack-bar-container</value>
+      <webElementGuid>443d63aa-0fd3-46d0-907c-2af3eccf944e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//snack-bar-container[(text() = 'Test Connection Successful Close ' or . = 'Test Connection Successful Close ')]</value>
+      <webElementGuid>98973081-eeb7-4bfb-a284-2fcd09b35bed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

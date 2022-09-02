@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Amount</name>
+   <tag></tag>
+   <elementGuidId>d72e271c-4fe3-489c-b6a2-59d72893b737</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-4-0']/form/div/div[2]/div/div[2]/div[2]/mat-form-field/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-flex.ng-tns-c73-105</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1475e0c-4927-44d8-8a2a-4cb05b50fdb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-flex ng-tns-c73-105</value>
+      <webElementGuid>1fc17fe5-5591-437b-9b74-9446201353d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amount</value>
+      <webElementGuid>89d829b8-2621-45f2-b54c-b6489fa70921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-4-0&quot;)/form[@class=&quot;ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;detailContentSpacing detailTopRow&quot;]/div[@class=&quot;invoiceSection&quot;]/div[@class=&quot;detailTitles detailInvoice ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;detailContentSpacing ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[2]/mat-form-field[@class=&quot;mat-form-field invoiceAmountForm ng-tns-c73-105 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label ng-untouched ng-pristine ng-valid ng-star-inserted mat-focused&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c73-105&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c73-105&quot;]</value>
+      <webElementGuid>8255dbce-8d3f-48b9-88bf-f4edced40fd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-4-0']/form/div/div[2]/div/div[2]/div[2]/mat-form-field/div/div</value>
+      <webElementGuid>70f9d847-7423-4b9c-8e51-d98df91fb7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance: $250,000.00'])[1]/following::div[3]</value>
+      <webElementGuid>9dfaa186-57e7-4d75-9414-02810b308ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due: 09-14-2027'])[1]/following::div[4]</value>
+      <webElementGuid>ba2edcc9-8721-4e4c-b7cf-c0b4e187bf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/mat-form-field/div/div</value>
+      <webElementGuid>7d132c24-4850-4a17-89a1-5509cd1d5f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Amount' or . = 'Amount')]</value>
+      <webElementGuid>b27adc59-4bde-45eb-80f6-b421bc16e30e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

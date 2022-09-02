@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Test Connection_1</name>
+   <tag></tag>
+   <elementGuidId>eb3435cc-3e4d-4dc9-a839-a2bbcfdfbfb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-integration-settings-modal/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>226cc2d8-7b7e-478c-874a-0cad0a5b4aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>498e5755-5e9e-4d9f-8724-6e821f6e09c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>c7ea5020-5d27-4506-a466-2f384e4b1c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Test Connection </value>
+      <webElementGuid>3d66e5ff-ecec-4179-90c4-ecab25e42d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-integration-settings-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;integrationsModalLayout&quot;]/div[@class=&quot;testConnectionBtn ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>32bb8147-82be-4df2-9968-093a599c367e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-integration-settings-modal/div/div[2]/button</value>
+      <webElementGuid>b4a44b04-4d64-44b5-bb6b-6a6a970318aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make sure integration information is saved, before using the test connection button.'])[1]/following::button[1]</value>
+      <webElementGuid>175b0c86-f05e-4ec6-8940-8a8129a15586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Entity Id'])[1]/following::button[1]</value>
+      <webElementGuid>00997162-5b0e-4461-88c7-5a15da627fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Attempted Sync'])[1]/preceding::button[1]</value>
+      <webElementGuid>274259b1-96bb-4855-8f93-fe819da1853e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-integration-settings-modal/div/div[2]/button</value>
+      <webElementGuid>063721dc-26b4-457c-9161-8c8352d445ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Test Connection ' or . = ' Test Connection ')]</value>
+      <webElementGuid>0467374b-ae46-4616-8231-d3da6275f5ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

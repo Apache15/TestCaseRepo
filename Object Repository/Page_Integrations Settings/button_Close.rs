@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>f21a4aa9-2efe-4745-848a-bba2dc7f292b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/snack-bar-container/div/div/app-notification-toast/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-stroked-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4f522ca-6505-4dcb-bed6-10ba2e03ee30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>74c3bc7d-ab83-4c35-ba90-eca299301964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>47a3ea3e-f857-491f-9635-fd484ea8732d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Close </value>
+      <webElementGuid>fe7798e2-fc82-40df-9958-c04b095067e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c146-52 ng-trigger ng-trigger-state snackbar-success mat-snack-bar-center ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c146-52&quot;]/div[@class=&quot;ng-tns-c146-52&quot;]/app-notification-toast[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;snackbarContainer&quot;]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d409e92f-a790-4367-87c6-ac67bcbbf130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/snack-bar-container/div/div/app-notification-toast/div/button</value>
+      <webElementGuid>5ef9f03d-a92b-4ab2-9ef7-bd583d5fd8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Connection Successful'])[1]/following::button[1]</value>
+      <webElementGuid>1ba12cc6-2553-4ebb-83ad-0d5b1d76c2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::button[1]</value>
+      <webElementGuid>bf310dbb-7b77-4877-80f2-4e78cd44ef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notification-toast/div/button</value>
+      <webElementGuid>2ea28f98-b043-4acf-ba47-8ca513bea260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Close ' or . = ' Close ')]</value>
+      <webElementGuid>1a46c7f6-f621-4e35-9e1b-1b9080300903</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

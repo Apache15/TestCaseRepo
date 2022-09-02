@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 825,Chrome 99.0.4844.51,,,2022-09-01 11:04:08,2022-09-01 11:05:27,1m - 18.566s,PASSED
+,,,,,,,
+Test Cases/Smoke Tests/Make payment via tenant portal,Chrome 99.0.4844.51,,,2022-09-01 11:04:09,2022-09-01 11:05:02,52.821s,PASSED
+"openBrowser("""")",Chrome 99.0.4844.51,,,2022-09-01 11:04:09,2022-09-01 11:04:13,3.530s,PASSED
+"navigateToUrl(""https://test-automation-do-not-use.dev-connectboosterportal.com/platform/"")",Chrome 99.0.4844.51,,,2022-09-01 11:04:13,2022-09-01 11:04:16,3.403s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Enter Email_mat-input-0""), ""blake.engrav@bngholdingsinc.com"")",Chrome 99.0.4844.51,,,2022-09-01 11:04:16,2022-09-01 11:04:21,4.946s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1""), ""p4y+y39Ir5NKue+owstwyA=="")",Chrome 99.0.4844.51,,,2022-09-01 11:04:21,2022-09-01 11:04:22,0.668s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1""), Keys.chord(ENTER))",Chrome 99.0.4844.51,,,2022-09-01 11:04:22,2022-09-01 11:04:22,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:22,2022-09-01 11:04:32,9.922s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Customers""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:32,2022-09-01 11:04:33,0.961s,PASSED
+"click(findTestObject(""Object Repository/Page_Customers/a_Sun Microsystems - EBC""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:33,2022-09-01 11:04:34,1.057s,PASSED
+"click(findTestObject(""Object Repository/Page_Customers Details/div_Open Invoices""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:34,2022-09-01 11:04:37,2.075s,PASSED
+"click(findTestObject(""Object Repository/Page_Customers Details/button_Open Invoices_mat-focus-indicator ma_e209a1""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:37,2022-09-01 11:04:37,0.529s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/td_INV-002647""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:37,2022-09-01 11:04:38,0.991s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Pay""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:38,2022-09-01 11:04:40,2.351s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/div_Select Payment Method""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:40,2022-09-01 11:04:41,0.827s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/span_VISA 100 (9428)""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:41,2022-09-01 11:04:42,0.532s,PASSED
+"setText(findTestObject(""Object Repository/Page_Open Invoices/input_Balance 249,999.00_mat-input-9""), ""2"")",Chrome 99.0.4844.51,,,2022-09-01 11:04:42,2022-09-01 11:04:43,1.369s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Next""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:43,2022-09-01 11:04:44,0.680s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Confirm""))",Chrome 99.0.4844.51,,,2022-09-01 11:04:44,2022-09-01 11:04:45,0.811s,PASSED
+"verifyElementPresent(findTestObject(""Page_Open Invoices/div_Payment Successful""), 10)",Chrome 99.0.4844.51,,,2022-09-01 11:04:45,2022-09-01 11:05:00,15.650s,PASSED
+"click(findTestObject(""Object Repository/Page_Open Invoices/button_Close""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:00,2022-09-01 11:05:01,0.479s,PASSED
+closeBrowser(),Chrome 99.0.4844.51,,,2022-09-01 11:05:01,2022-09-01 11:05:02,0.840s,PASSED
+,,,,,,,
+Test Cases/Smoke Tests/Verify Sync,Chrome 99.0.4844.51,,,2022-09-01 11:05:02,2022-09-01 11:05:27,25.265s,PASSED
+"openBrowser("""")",Chrome 99.0.4844.51,,,2022-09-01 11:05:02,2022-09-01 11:05:03,1.331s,PASSED
+"navigateToUrl(""https://test-automation-do-not-use.dev-connectboosterportal.com/platform/"")",Chrome 99.0.4844.51,,,2022-09-01 11:05:03,2022-09-01 11:05:06,2.786s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Enter Email_mat-input-0""), ""blake.engrav@bngholdingsinc.com"")",Chrome 99.0.4844.51,,,2022-09-01 11:05:06,2022-09-01 11:05:08,1.971s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1""), ""p4y+y39Ir5NKue+owstwyA=="")",Chrome 99.0.4844.51,,,2022-09-01 11:05:08,2022-09-01 11:05:09,0.643s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign In""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:09,2022-09-01 11:05:09,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:09,2022-09-01 11:05:13,3.519s,PASSED
+"click(findTestObject(""Object Repository/Page_Overview/button_Settings""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:13,2022-09-01 11:05:14,1.035s,PASSED
+"click(findTestObject(""Object Repository/Page_General Settings/button_Integrations""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:14,2022-09-01 11:05:15,0.921s,PASSED
+"click(findTestObject(""Object Repository/Page_Integrations Settings/button_SageIntacct_mat-focus-indicator mat-_f315e5""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:15,2022-09-01 11:05:16,1.121s,PASSED
+"click(findTestObject(""Object Repository/Page_Integrations Settings/span_Settings""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:16,2022-09-01 11:05:17,0.995s,PASSED
+"click(findTestObject(""Object Repository/Page_Integrations Settings/button_Test Connection_1""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:17,2022-09-01 11:05:18,1.023s,PASSED
+"click(findTestObject(""Object Repository/Page_Integrations Settings/div_Test Connection Success Close""))",Chrome 99.0.4844.51,,,2022-09-01 11:05:18,2022-09-01 11:05:26,8.105s,PASSED
+closeBrowser(),Chrome 99.0.4844.51,,,2022-09-01 11:05:26,2022-09-01 11:05:27,0.798s,PASSED

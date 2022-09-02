@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SageIntacct_mat-focus-indicator mat-_f315e5</name>
+   <tag></tag>
+   <elementGuidId>14e00dfc-7874-4f30-a4cf-8a553313ce0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SageIntacct'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53142265-f253-4bf9-8715-3c0db98a45e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>b0d2665b-cc39-4bfb-acb7-a540bec61cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>99598d06-bc5c-4898-b5fc-699a0862171f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-portal-settings[@class=&quot;ng-star-inserted&quot;]/app-integrations-settings[@class=&quot;ng-star-inserted&quot;]/app-integration-card[1]/div[@class=&quot;integrationCardLayout&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator integrationCard ng-star-inserted&quot;]/mat-toolbar[@class=&quot;mat-toolbar integrationHeader mat-primary mat-toolbar-single-row&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>2ff61282-9908-40c9-8ed2-0825a052c14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb7e7d1f-22a5-4a2c-b084-6baa15fc368d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>e96db129-3baa-4bd4-90e4-1fe37cda409e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3eb08696-3e48-4f9d-b86b-d5b1ce46bc1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-portal-settings[@class=&quot;ng-star-inserted&quot;]/app-integrations-settings[@class=&quot;ng-star-inserted&quot;]/app-integration-card[1]/div[@class=&quot;integrationCardLayout&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator integrationCard ng-star-inserted&quot;]/mat-toolbar[@class=&quot;mat-toolbar integrationHeader mat-primary mat-toolbar-single-row&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>569b85d4-3489-45b2-96ec-5e4dbd8638ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SageIntacct'])[1]/following::button[1]</value>
+      <webElementGuid>b691485f-97b5-4d5f-95f9-bf5bb24790e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Sync'])[1]/following::button[1]</value>
+      <webElementGuid>a1592094-87c1-460e-99b5-70f1b71e9361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Id'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a1da2b1-561b-4dfa-9acf-a3b56f356d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ConnectBoosterMPP-DEV'])[1]/preceding::button[1]</value>
+      <webElementGuid>dc0f7c34-fb67-4c17-b6e7-621d613cb187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card[2]/mat-toolbar/button</value>
+      <webElementGuid>9b0d75a4-6c4d-4ace-a034-d2114c11c7b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

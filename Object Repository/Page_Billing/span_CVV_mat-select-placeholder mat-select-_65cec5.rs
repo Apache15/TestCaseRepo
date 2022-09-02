@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CVV_mat-select-placeholder mat-select-_65cec5</name>
+   <tag></tag>
+   <elementGuidId>db7993f0-1578-482d-a22f-635faa109247</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-placeholder.mat-select-min-line.ng-tns-c125-14.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db11b7b1-2637-42c1-8a05-08a99b057756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder mat-select-min-line ng-tns-c125-14 ng-star-inserted</value>
+      <webElementGuid>748a9044-5c79-474e-9067-d299d5e9ba9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-1&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c125-14 ng-star-inserted&quot;]</value>
+      <webElementGuid>08290439-c376-495f-9241-8ff2712cd6f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-1']/span</value>
+      <webElementGuid>937eb7d5-2fe5-46c9-bbba-482d80ba5381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV'])[1]/following::span[2]</value>
+      <webElementGuid>f92b28b7-798d-4c6d-8a02-52d56b5885ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Number'])[1]/following::span[4]</value>
+      <webElementGuid>91dcc33f-eae8-4b1e-8274-39816b5014c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Month'])[1]/preceding::span[1]</value>
+      <webElementGuid>d8704dcc-30a6-40b0-bd0f-d3fc0da5c0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Year'])[1]/preceding::span[4]</value>
+      <webElementGuid>5442f6d7-93ef-477c-bdb9-b86cbe7575fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-select/div/div/span</value>
+      <webElementGuid>7089a491-b4f8-4cff-bcb7-5ee60cf39492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

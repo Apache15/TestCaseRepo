@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customers</name>
+   <tag></tag>
+   <elementGuidId>b293f7b9-6bad-41fb-836f-067da1fac0a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > span.navButtonTextColor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2d87f6b-ddd0-4038-bcfd-dc7533fd1d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navButtonTextColor</value>
+      <webElementGuid>a5659a98-a90f-4871-80ad-b2ed68b19592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customers</value>
+      <webElementGuid>18d073c3-befb-411b-8939-6f5b7597dcc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav sideNav ng-tns-c143-2 ng-trigger ng-trigger-transform mat-drawer-over mat-sidenav-fixed ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c143-2&quot;]/div[@class=&quot;sideNavButton ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;navButtonTextColor&quot;]</value>
+      <webElementGuid>9c1dbbcc-50d8-4eaf-a91c-4a8b46d4d488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::span[4]</value>
+      <webElementGuid>a57f66f7-6df9-41c2-b9de-ceef4087ad17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::span[3]</value>
+      <webElementGuid>6fa83982-4030-4098-aa8b-5337bbd504f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[7]</value>
+      <webElementGuid>3ed186ea-41f5-4202-be18-0293566c9ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customers']/parent::*</value>
+      <webElementGuid>a2eca9f3-5bd7-4a3d-8322-e47d1337d65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/span</value>
+      <webElementGuid>2cd650ea-2a17-4fc4-962e-e83f1c99a4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Customers' or . = 'Customers')]</value>
+      <webElementGuid>71b023bf-01f2-427d-85d3-fa609a1ce866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

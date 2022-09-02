@@ -19,39 +19,27 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://testsage-walker.dev-connectboosterportal.com/platform/login')
+WebUI.navigateToUrl('https://test-automation-do-not-use.dev-connectboosterportal.com/platform/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Enter Email_mat-input-0'), 'blake.engrav@bngholdingsinc.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1'), 'p4y+y39Ir5M+OEhtE99IdA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Please enter valid email_mat-input-1'), 'p4y+y39Ir5NKue+owstwyA==')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign In'))
 
 WebUI.click(findTestObject('Object Repository/Page_Overview/button_Logout_mat-focus-indicator headerLef_5ac3dc'))
 
-WebUI.click(findTestObject('Object Repository/Page_Overview/button_Customers'))
+WebUI.click(findTestObject('Object Repository/Page_Overview/button_Settings'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers/a_company that REALLY loves invoices'))
+WebUI.click(findTestObject('Object Repository/Page_General Settings/button_Integrations'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/td_INV-002544'))
+WebUI.click(findTestObject('Object Repository/Page_Integrations Settings/button_SageIntacct_mat-focus-indicator mat-_f315e5'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Pay'))
+WebUI.click(findTestObject('Object Repository/Page_Integrations Settings/span_Settings'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Wallet_mat-select-placeholder mat-sele_4fa54e'))
+WebUI.click(findTestObject('Object Repository/Page_Integrations Settings/button_Test Connection_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_Visa hunned (9428)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Visa hunned (9428)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/span_test (1111)'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Customers Details/input_Balance 100.00_mat-input-9'), '1')
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Next'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/button_Confirm'))
-
-WebUI.click(findTestObject('Object Repository/Page_Customers Details/div_Error Issuer Declined'))
+WebUI.click(findTestObject('Object Repository/Page_Integrations Settings/div_Test Connection Success Close'))
 
 WebUI.closeBrowser()
 

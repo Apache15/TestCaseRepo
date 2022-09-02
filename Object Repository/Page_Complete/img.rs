@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>a46d67fe-26af-4d0c-81b1-bb7401f03a48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-card-content/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.completeCardHeader > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9556c96f-750b-45e7-8046-a8feabc2b5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/images/Checkmark.svg</value>
+      <webElementGuid>0a936ae4-d455-4e5d-b10a-7a571eeeab3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-paynow[1]/app-complete[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator completeCard col-sm-7 col-md-5 col-lg-4 ng-star-inserted&quot;]/mat-card-content[@class=&quot;mat-card-content completeCardContent&quot;]/div[@class=&quot;completeCardHeader&quot;]/img[1]</value>
+      <webElementGuid>d6ac55fb-fa21-4a5c-9cf5-d216253850b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card-content/div/img</value>
+      <webElementGuid>ada0375d-a8b9-4a11-bb06-e85863028338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/images/Checkmark.svg']</value>
+      <webElementGuid>cc393a3a-1872-4d08-a1ef-a40259ecdc97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

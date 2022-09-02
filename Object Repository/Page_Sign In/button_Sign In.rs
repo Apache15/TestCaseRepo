@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In</name>
+   <tag></tag>
+   <elementGuidId>9314ab05-5dd1-4680-a73e-fe8eb2014e0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter password'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-raised-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9a57c0e-8cf4-42a8-8791-d21ebb183378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>c2fa8960-456a-45b0-b5c4-bc2da40c8bab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>d15c76c9-7875-40ae-a3ba-6dbec95b16c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In </value>
+      <webElementGuid>f53261db-2ab4-4e35-81d3-c5ccd8f5e69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;centering ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator loginCard&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginFooter&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>6c88f1be-7fb1-428e-9c70-5f49d712b9eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b51e92b-b78c-439c-88ce-daa63698fca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>10ea9bb1-86d0-4860-8b25-dd3f3f8405a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>dee5ef7b-c592-49d5-ad36-5c90446a5efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In </value>
+      <webElementGuid>e2967790-ea8a-457f-a901-c373076d5768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;centering ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator loginCard&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginFooter&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>4788968c-55a7-4bf3-a5d3-3a8cad0e2168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25a1a709-5371-4d41-afb4-b3ba1289ca7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>aec3ff7f-4392-484e-a338-afcfcf1794a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>b7ad368f-bae9-4d6c-bb70-432156a25a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In </value>
+      <webElementGuid>a629907e-e11a-4d5b-a6ce-a5e853f37141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;centering ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator loginCard&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginFooter&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>f2bba778-e337-4e12-8206-356f75e34dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter password'])[1]/following::button[1]</value>
+      <webElementGuid>3a0661c2-ad59-4740-9424-ce9f229e476f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::button[1]</value>
+      <webElementGuid>c2dbb0c4-5c58-4e9d-ab8e-758e84dd28c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Login or Password'])[1]/preceding::button[1]</value>
+      <webElementGuid>aadb7b80-9a97-452c-a7aa-1f13a9592523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>3f732c6a-c89c-4d55-80a8-b24276f13865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Sign In ' or . = ' Sign In ')]</value>
+      <webElementGuid>edb547a5-46f2-4076-90d5-f49db4efc723</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -12,10 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>70f07efa-a861-45a0-9b37-6b483be12f14</testSuiteGuid>
    <testCaseLink>
-      <guid>27fb35d4-5820-4607-ae37-6667514e9bda</guid>
+      <guid>147ef00d-b347-443a-adfe-885b9d59f7a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Testcase 829</testCaseId>
+      <testCaseId>Test Cases/Smoke Tests/Make payment via tenant portal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b81b86c8-0fdf-495d-800e-d1c297219172</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Smoke Tests/Verify Sync</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

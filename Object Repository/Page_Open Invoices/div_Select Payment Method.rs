@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Payment Method</name>
+   <tag></tag>
+   <elementGuidId>8e26cf23-4a58-480c-9e59-d1ef75f7d7c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-0']/form/div/div/div/div[2]/mat-form-field/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c73-55</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e91c5243-ec1b-4f07-8bb3-a2d3c86c3b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c73-55</value>
+      <webElementGuid>010b4edc-a5a8-4331-9bd1-6974a5d3e429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Payment Method</value>
+      <webElementGuid>dd265fd7-c960-49fd-b28a-87bab202c081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;detailContentSpacing detailTopRow&quot;]/div[@class=&quot;detailContentSpacing&quot;]/div[@class=&quot;detailTitles walletTitle&quot;]/div[@class=&quot;detailWallet&quot;]/mat-form-field[@class=&quot;mat-form-field paymentMethodSelector ng-tns-c73-55 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c73-55&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c73-55&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c73-55&quot;]</value>
+      <webElementGuid>1962f7da-96dc-4859-b4ef-4324094ce304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dad33a12-d0e3-419d-9ab0-a6ab3be69a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c73-53</value>
+      <webElementGuid>fe9a189d-3c90-4b30-8d8e-1ce240e3b8a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Payment Method</value>
+      <webElementGuid>4a8ca73b-5c7c-4c9d-bd42-f94da2f2fc6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;detailContentSpacing detailTopRow&quot;]/div[@class=&quot;detailContentSpacing&quot;]/div[@class=&quot;detailTitles walletTitle&quot;]/div[@class=&quot;detailWallet&quot;]/mat-form-field[@class=&quot;mat-form-field paymentMethodSelector ng-tns-c73-53 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c73-53&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c73-53&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c73-53&quot;]</value>
+      <webElementGuid>98780e3e-d98c-4c08-8927-251089ea2c47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-0']/form/div/div/div/div[2]/mat-form-field/div/div/div</value>
+      <webElementGuid>4aec5865-9ac8-4de8-9e5a-cb3e4464e630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation'])[1]/following::div[10]</value>
+      <webElementGuid>07803c56-43b2-4c6c-a81b-c938e24421ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/preceding::div[14]</value>
+      <webElementGuid>9fed9fb4-6973-4be8-93f8-9829043fda23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-form-field/div/div/div</value>
+      <webElementGuid>9c42ad84-791d-4e97-884d-721fbb01224f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Payment Method' or . = 'Select Payment Method')]</value>
+      <webElementGuid>d220250a-4756-45b3-932e-431d4735bd95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

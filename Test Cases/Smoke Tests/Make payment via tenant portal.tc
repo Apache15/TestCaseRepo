@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Testcase 829</name>
+   <name>Make payment via tenant portal</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>
       <properties>
          <entry>
             <key>azure.testcase.ids</key>
-            <value>12448</value>
+            <value>12530</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
-   <testCaseGuid>f12a4640-a07c-4990-9067-b4bd88c92457</testCaseGuid>
+   <testCaseGuid>55988fe1-50e5-463a-a979-2df1676c7e7f</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_INV-002647</name>
+   <tag></tag>
+   <elementGuidId>1f3a70b7-149c-4df0-b86d-4e2b9c4030b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[1]/following::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-cell.cdk-cell.clickableLinkGeneric.cdk-column-invoiceNumber.mat-column-invoiceNumber.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c1359cd2-5def-4722-808f-680f667b83c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>9c968def-40ab-4ce8-b693-09052fe53707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell clickableLinkGeneric cdk-column-invoiceNumber mat-column-invoiceNumber ng-star-inserted</value>
+      <webElementGuid>ddfe1ad0-ffab-465f-bfa1-005857344629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> INV-002647 </value>
+      <webElementGuid>8d439d9b-71db-422e-85ee-757e421cf705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-open-invoices-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-elevation-z8 openInvoicesLayout ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort ng-star-inserted&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell clickableLinkGeneric cdk-column-invoiceNumber mat-column-invoiceNumber ng-star-inserted&quot;]</value>
+      <webElementGuid>e214dc3c-ca38-481d-abc8-074f12b16644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>afdb3017-c129-428c-8754-a334dd0c3504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>dd018a1f-f1b8-4a3c-a132-9e74ed1500bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell clickableLinkGeneric cdk-column-invoiceNumber mat-column-invoiceNumber ng-star-inserted</value>
+      <webElementGuid>604d5fa3-c7e2-4f14-8887-7c8de146eda0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> INV-002647 </value>
+      <webElementGuid>943a24e5-52d0-403c-8e80-fb74eb12030e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-open-invoices-page[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-elevation-z8 openInvoicesLayout ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table mat-sort ng-star-inserted&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell clickableLinkGeneric cdk-column-invoiceNumber mat-column-invoiceNumber ng-star-inserted&quot;]</value>
+      <webElementGuid>a1004bfd-39e2-44af-8665-9d8a4a34f026</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[1]/following::td[2]</value>
+      <webElementGuid>7424d58f-2d5f-4d4b-baaa-498cdd89e0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::td[2]</value>
+      <webElementGuid>ca879aa0-65fe-4418-9fc5-ebb609dc176b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,999.00'])[1]/preceding::td[1]</value>
+      <webElementGuid>8ea84fa8-015a-47a9-bb89-ff0346f89628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$250,000.00'])[1]/preceding::td[2]</value>
+      <webElementGuid>9ae853d8-7f6e-48b6-8892-985e1ca2fab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='INV-002647']/parent::*</value>
+      <webElementGuid>564578d1-215b-41bc-b698-4b9e0f152a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>69f97cf2-9e35-4b95-996b-84f20836bd5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' INV-002647 ' or . = ' INV-002647 ')]</value>
+      <webElementGuid>2bb07556-e64b-4101-a59c-4eb155f62fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$250,000.00'])[1]/preceding::td[1]</value>
+      <webElementGuid>194566f0-59ec-496c-ab65-9a20adc62de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$250,000.00'])[2]/preceding::td[2]</value>
+      <webElementGuid>3edea53b-dcdc-4473-976e-5c845a18173d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

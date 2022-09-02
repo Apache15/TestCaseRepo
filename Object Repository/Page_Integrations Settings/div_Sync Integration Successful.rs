@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sync Integration Successful</name>
+   <tag></tag>
+   <elementGuidId>29fc78ad-7811-4b57-8e21-d04c57be38fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/snack-bar-container/div/div/app-notification-toast/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.snackbarText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15546d09-0093-4b50-b397-e754b1e91ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>snackbarText</value>
+      <webElementGuid>1c9c267c-a431-4522-afc4-ee2b1fcc834e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sync Integration Successful</value>
+      <webElementGuid>6a542526-3bea-47cd-bf08-6be8c07f7948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c146-52 ng-trigger ng-trigger-state snackbar-success mat-snack-bar-center ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c146-52&quot;]/div[@class=&quot;ng-tns-c146-52&quot;]/app-notification-toast[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;snackbarContainer&quot;]/div[1]/div[@class=&quot;snackbarText&quot;]</value>
+      <webElementGuid>5e157356-b294-45c4-a7d7-3eafef568ef5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/snack-bar-container/div/div/app-notification-toast/div/div/div</value>
+      <webElementGuid>d0301ba4-c5ae-41ea-b31e-1236a09c6c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::div[8]</value>
+      <webElementGuid>57e82f19-7210-455a-95e6-262158829516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ConnectBooster Academy'])[1]/following::div[9]</value>
+      <webElementGuid>acd542e2-0e75-4f37-b658-5074fd919a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::div[1]</value>
+      <webElementGuid>5bac98d2-d54e-485b-8cda-27623ff571c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sync Integration Successful']/parent::*</value>
+      <webElementGuid>508b52b9-863f-4161-bf34-4decbe6af774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-notification-toast/div/div/div</value>
+      <webElementGuid>815291bf-a6e7-46ff-b128-36db519d84c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sync Integration Successful' or . = 'Sync Integration Successful')]</value>
+      <webElementGuid>e68c53ad-df71-4ec8-a708-ecdd4d69e7e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

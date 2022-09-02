@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Settings</name>
+   <tag></tag>
+   <elementGuidId>8cc75923-bac2-4b44-8fab-7c4a46d83dd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-3']/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-item.cdk-focused.cdk-mouse-focused > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4eb73e7a-c717-4f21-abd5-e09a38db1ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>d14f9d01-87ad-4c21-b9cc-9e376d90e321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-3&quot;)/div[@class=&quot;mat-menu-content ng-tns-c117-47&quot;]/div[@class=&quot;integrationMenu ng-tns-c117-47&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-item cdk-focused cdk-mouse-focused&quot;]/span[1]</value>
+      <webElementGuid>78b5df77-9b55-43eb-934a-880fe5e0f8a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-3']/div/div/button/span</value>
+      <webElementGuid>d2f55fd3-8d2d-4658-a9ae-b1b8abd934a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::span[1]</value>
+      <webElementGuid>78f201b4-1689-46f1-a77c-f1df5d8a9a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ConnectBooster Academy'])[1]/following::span[1]</value>
+      <webElementGuid>19d0bcaa-70bf-43bc-a39d-411997082bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync Now'])[1]/preceding::span[1]</value>
+      <webElementGuid>86949984-28d4-49b6-9cf7-af99b2a69e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Connection'])[1]/preceding::span[2]</value>
+      <webElementGuid>582c8120-b033-4076-bfc4-592ec14d89de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/span</value>
+      <webElementGuid>8d7dc886-d516-40ce-8670-74f8499355f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>98ecbe7e-393d-46fc-a403-b801c0dc33ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

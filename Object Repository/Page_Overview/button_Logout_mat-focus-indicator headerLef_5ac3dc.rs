@@ -22,6 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>754fcc36-4db2-4c32-ae5f-f3cbb547cb3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>30b25c66-9fdb-49cb-8914-ce213e7cf8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeaderNav&quot;)/button[@class=&quot;mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>5c570162-17bb-4d47-aab0-78c1889fb85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>29491c7a-6f43-4d91-bb1e-8e9df411da5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>7bdf2024-27cd-4ed5-b5c6-c735b9551278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeaderNav&quot;)/button[@class=&quot;mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>01dc52d2-c40f-401b-951e-2e53f2e6c7d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1bc9b7c2-5ab0-42f0-ad9c-9fa3db2ce007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>bae6efcc-122f-49d3-8802-5ebd8d05ab8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeaderNav&quot;)/button[@class=&quot;mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>1cbfdc0d-8d21-4f3c-a07a-59f86807db3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9adeb580-1e0c-408d-bebb-fe51bb145de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>ad605340-df2d-4220-a75b-aecb5f49f5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeaderNav&quot;)/button[@class=&quot;mat-focus-indicator headerLeft mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>0f0f4064-fc8a-4801-9239-1a3451e89747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>4622ca28-621f-4511-b268-6aabb416ec1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +129,7 @@
       <webElementGuid>bbb96b37-3657-4908-b593-c227c539f5ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-toolbar[@id='mainHeaderNav']/button</value>
-      <webElementGuid>0035f343-8133-4031-a236-101192474ce5</webElementGuid>
+      <webElementGuid>ef704236-7daa-4240-a67b-cdcbd3381224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
-      <webElementGuid>00a5b7d8-7355-4d25-9282-c76edbbca3e3</webElementGuid>
+      <webElementGuid>3940b3ff-ddfd-448d-9a4b-b555170ca482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +158,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::button[2]</value>
-      <webElementGuid>344f5072-8413-44b2-8f28-9d3ab98287a7</webElementGuid>
+      <webElementGuid>aec7809d-93f4-4a4d-b662-8b08b56d980d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments Failing To Sync!'])[1]/preceding::button[4]</value>
+      <webElementGuid>5f137665-7c2c-485c-885d-097b8d38b916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve Now'])[1]/preceding::button[4]</value>
+      <webElementGuid>3c31db4b-4c3b-441d-a3a4-43a7496cc439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-toolbar/button</value>
+      <webElementGuid>833c0e20-85a0-49e3-910e-4a11fafc55b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/R by Company'])[1]/preceding::button[4]</value>
+      <webElementGuid>630b7e98-c33e-4758-9a3b-ee627f842ca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,21 +199,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unresolved ACH/EFT Returns'])[1]/preceding::button[4]</value>
       <webElementGuid>aade6cdd-a16a-414b-bfdb-5a15c4e7c91f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve Now'])[1]/preceding::button[4]</value>
-      <webElementGuid>82f95d75-d628-42f8-a0fa-d46e7127fc4d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//mat-toolbar/button</value>
-      <webElementGuid>fa9b5232-0e2a-47d0-9c5f-8cd0207653c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

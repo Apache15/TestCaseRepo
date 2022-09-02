@@ -1,14 +1,3 @@
 {
-  "brokenTestObjects": [
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Page_Overview/path",
-      "brokenLocator": "",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "svg.svg-inline--fa.fa-bars.fa-w-14 \u003e path",
-      "proposedLocatorMethod": "CSS",
-      "recoveryMethod": "CSS",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Overview/path_CSS.png"
-    }
-  ]
+  "brokenTestObjects" : [ ]
 }

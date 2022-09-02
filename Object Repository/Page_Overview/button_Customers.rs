@@ -22,6 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>d8c55613-76cb-4ae0-89da-6a788ade57e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>9ce232e4-375e-4c44-a831-e58e1e3f1eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>customers</value>
+      <webElementGuid>cb57513c-d684-4958-9a41-01a8555a4563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>e2bbfa41-8afa-41e0-bdbf-673a3492832c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>79de7291-9fc9-4307-b988-8e9b324159b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customers</value>
+      <webElementGuid>666692ea-e5f2-4ce5-b1ed-3dbf23819c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav sideNav ng-tns-c143-2 ng-trigger ng-trigger-transform mat-drawer-over mat-sidenav-fixed ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c143-2&quot;]/div[@class=&quot;sideNavButton ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>5768ad0f-636c-4f0a-b5b0-66bbf298818c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db99920d-a0c6-4f15-bfaa-c64f15944f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>f325c939-b761-402e-b9b7-df71d8d155e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>customers</value>
+      <webElementGuid>9912de8a-277b-4145-92f9-7cd21c6e4f3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>581b35fa-9436-4415-99c2-eee240f760f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ee181b14-2bad-4695-bb09-2932f1e7a7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customers</value>
+      <webElementGuid>88273daa-c24a-4e23-8de1-cc5a096559ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition mat-drawer-container-has-open&quot;]/mat-sidenav[@class=&quot;mat-drawer mat-sidenav sideNav ng-tns-c143-2 ng-trigger ng-trigger-transform mat-drawer-over mat-sidenav-fixed ng-star-inserted mat-drawer-opened&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c143-2&quot;]/div[@class=&quot;sideNavButton ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>758f6a97-404a-4c77-a426-6512078c31a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>8d500796-b0f1-48ec-885d-dd3afebb7b8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -57,7 +169,7 @@
       <webElementGuid>50925030-222d-4834-a80a-db368d7f7734</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -78,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::button[1]</value>
-      <webElementGuid>e4ebb19a-9437-4c7a-b1fb-5f6c7e019884</webElementGuid>
+      <webElementGuid>876c1ce3-9284-4e8e-80ae-f1a1a2eaa84a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::button[1]</value>
-      <webElementGuid>b1147199-bcb6-441d-b510-da7e743a789f</webElementGuid>
+      <webElementGuid>4b5d9741-9795-438a-b633-db268e3952a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +206,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>b44e9625-2a5e-4591-8c97-cbb6d62763e8</webElementGuid>
+      <webElementGuid>762cb3a1-8854-4792-980a-caa2a8ae97c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +214,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Customers' or . = 'Customers')]</value>
-      <webElementGuid>b41f6c56-4c1b-49d7-86e3-a7f0a2b6ab5f</webElementGuid>
+      <webElementGuid>79df9037-2544-4641-9ae4-df25007a258e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

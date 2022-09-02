@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-billing_Payment Information Payment Met_5cd83b</name>
+   <tag></tag>
+   <elementGuidId>1a9f310a-304c-440f-990a-e494a837da1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-billing</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-billing.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-billing</value>
+      <webElementGuid>9678d8a3-5c74-4d22-88ef-4d13f798afc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>f2c53ac8-6837-4fa0-b50c-7cebdca8bda9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment Information Payment Method Name on CardCard NumberCVV1 - JanExpiration Month2037Expiration Year Billing Address Email AddressAddress Line 1Address Line 2 (optional)CityStatePostal CodePhone (optional)Invoice NumberAmount to PayGrand TotalINV-002647$1.00$1.00CONTINUE</value>
+      <webElementGuid>9d8cf30e-ab26-447c-a027-28994f0e4e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-paynow[1]/app-billing[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>557b059b-87f2-4012-8d1a-f6c3ea864f9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-billing</value>
+      <webElementGuid>166b9486-fbcf-4d35-adf9-0827b454c7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-billing[(text() = 'Payment Information Payment Method Name on CardCard NumberCVV1 - JanExpiration Month2037Expiration Year Billing Address Email AddressAddress Line 1Address Line 2 (optional)CityStatePostal CodePhone (optional)Invoice NumberAmount to PayGrand TotalINV-002647$1.00$1.00CONTINUE' or . = 'Payment Information Payment Method Name on CardCard NumberCVV1 - JanExpiration Month2037Expiration Year Billing Address Email AddressAddress Line 1Address Line 2 (optional)CityStatePostal CodePhone (optional)Invoice NumberAmount to PayGrand TotalINV-002647$1.00$1.00CONTINUE')]</value>
+      <webElementGuid>3dd5b15d-c601-45cd-aea1-c3a96953abd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
