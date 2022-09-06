@@ -6,16 +6,56 @@
    <elementGuidId>9314ab05-5dd1-4680-a73e-fe8eb2014e0e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter password'])[1]/following::button[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.mat-focus-indicator.mat-button.mat-raised-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter password'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3974769b-d7b6-461d-9c12-8e10931f39c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>33fe69ff-61a8-4da9-a274-ca406609ba03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>5b53385f-39c7-4f1b-87ff-abc94c1a0425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In </value>
+      <webElementGuid>f208920e-15af-4322-9ca0-5edd0ce348f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;centering ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator loginCard&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginFooter&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>7abe1e18-0a03-42f4-ba0c-676f7a240156</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +81,7 @@
       <webElementGuid>d15c76c9-7875-40ae-a3ba-6dbec95b16c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter password'])[1]/following::button[1]</value>
-      <webElementGuid>3a0661c2-ad59-4740-9424-ce9f229e476f</webElementGuid>
+      <webElementGuid>525c036c-b2da-46a8-a8e7-7bb728712edc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::button[1]</value>
-      <webElementGuid>c2dbb0c4-5c58-4e9d-ab8e-758e84dd28c1</webElementGuid>
+      <webElementGuid>362f693b-11d0-4174-ab14-1809a9df56d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Login or Password'])[1]/preceding::button[1]</value>
-      <webElementGuid>aadb7b80-9a97-452c-a7aa-1f13a9592523</webElementGuid>
+      <webElementGuid>d8a657ef-3978-4ef1-89a0-88a7dd2e446c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +206,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>3f732c6a-c89c-4d55-80a8-b24276f13865</webElementGuid>
+      <webElementGuid>8b4b9c58-d404-4d4a-9e75-2b1148983153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +214,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Sign In ' or . = ' Sign In ')]</value>
-      <webElementGuid>edb547a5-46f2-4076-90d5-f49db4efc723</webElementGuid>
+      <webElementGuid>d53b4b6b-76b1-4b06-8d9f-a7430f3f5fbc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

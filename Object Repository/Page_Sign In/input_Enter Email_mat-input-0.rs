@@ -22,10 +22,98 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>db8a6cc6-3026-495e-aaaa-7e6ea4618f0c</webElementGuid>
+      <webElementGuid>8edf947c-7098-4c42-91f0-d6b8adb246f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>e430a0b9-ce82-441a-bb1e-bf8ae6aaccc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>emailControl</value>
+      <webElementGuid>328182e2-637f-467a-9c9a-39eaf1aa8c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-input-element mat-form-field-autofill-control ng-tns-c73-0 ng-untouched ng-invalid cdk-text-field-autofill-monitored ng-dirty</value>
+      <webElementGuid>9b543469-6d7d-4428-9ba8-698ea1873703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>mat-error-0</value>
+      <webElementGuid>8f5f9d17-bcba-4123-9fb5-9915c24381f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mat-input-0</value>
+      <webElementGuid>0bc8ba36-ada1-4061-abb4-b49902570072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placeholder</name>
+      <type>Main</type>
+      <value>jon@example.com</value>
+      <webElementGuid>5fb3d2cb-02fc-4801-893b-e4a602daaaec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dea26e4c-2db8-438f-970a-b85d86cbac4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>jon@example.com</value>
+      <webElementGuid>d40b7c85-f09f-4b94-9293-c2ad17be48a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f222b48-b6fd-4113-920e-1d2da9bcfae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-input-0&quot;)</value>
+      <webElementGuid>08db80c1-b606-4f32-881e-d0353e43f519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>db8a6cc6-3026-495e-aaaa-7e6ea4618f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -57,7 +145,7 @@
       <webElementGuid>e0941d76-77e0-4e88-b879-46476ffe0698</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -81,7 +169,7 @@
       <webElementGuid>cdcafae4-c36e-467e-b644-0ba5d94c99b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -550,7 +638,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mat-input-0']</value>
-      <webElementGuid>99eb2282-6b7d-46cb-8d5e-3187b6a8a275</webElementGuid>
+      <webElementGuid>327457b8-2758-4326-8852-41891c7d2f1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -558,7 +646,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d2b5a80d-999b-4304-bb68-3288f28f56ef</webElementGuid>
+      <webElementGuid>4d106034-55d7-4102-98fa-8aed87c2b948</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -566,6 +654,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'mat-input-0' and @placeholder = 'jon@example.com']</value>
-      <webElementGuid>0861ebb6-0f2d-45ca-829c-917cd0e09a5f</webElementGuid>
+      <webElementGuid>b5a8661a-cc25-42d3-ae9c-d8aa48dab49f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

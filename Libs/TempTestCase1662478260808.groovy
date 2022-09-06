@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\BLAKE~1.ENG\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Smoke Tests\\Make payment via tenant portal\\20220902_110503\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\BLAKE~1.ENG\\AppData\\Local\\Temp\\Katalon\\Test Cases\\Smoke Tests\\Verify Login\\20220906_103100\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/Smoke Tests/Make payment via tenant portal', new TestCaseBinding('Test Cases/Smoke Tests/Make payment via tenant portal',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/Smoke Tests/Verify Login', new TestCaseBinding('Test Cases/Smoke Tests/Verify Login',[:]), FailureHandling.STOP_ON_FAILURE , false)
     
