@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>fc809708-c089-401f-9034-2af0f55a703e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>ee92d932-90a2-440b-af95-3d7c8a5eaae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>fee097ae-034b-46da-8032-c8181b033d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay</value>
+      <webElementGuid>2e57a8fa-fa9b-440e-9f8f-1b9531b36c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-invoice-information-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;infoFooter ng-star-inserted&quot;]/div[2]/button[@class=&quot;mat-focus-indicator mat-raised-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>50317a94-831b-42e0-93fa-e8156700c1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>f9f6e55e-2e71-4e7d-85a8-dbb5131d640a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -41,7 +81,7 @@
       <webElementGuid>9de409c7-5244-4a3d-99e5-d70df594c161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-dialog-container[@id='mat-dialog-0']/app-invoice-information-modal/div[2]/div[2]/button</value>
-      <webElementGuid>35deae0d-f338-4481-95eb-e57a222eb6c6</webElementGuid>
+      <webElementGuid>21ba2c3f-9be9-4302-8a38-12289948eda1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
-      <webElementGuid>0a787fbb-5d12-440b-9bd7-3501f78e36c5</webElementGuid>
+      <webElementGuid>00d0d527-ecb7-4e4b-98bd-5a088d5628df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.15'])[1]/following::button[2]</value>
+      <webElementGuid>0840fed4-ba5c-455d-8457-cb6e7d2ce19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>b937951a-b6f2-4343-af72-ed3e8b66827d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pay' or . = 'Pay')]</value>
+      <webElementGuid>bf13cfb5-e537-4b0e-a4dd-6f5dc945f555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,21 +143,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[2]</value>
       <webElementGuid>dcb92c24-32f4-4502-ac7a-2665cc5a993a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/button</value>
-      <webElementGuid>81a12930-ae22-4b57-b646-a43a3a3029b5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = 'Pay' or . = 'Pay')]</value>
-      <webElementGuid>52e3f4a9-5ae5-4bd7-8303-e1e564cbeecc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

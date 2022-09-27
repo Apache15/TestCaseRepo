@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Confirm_confirmationPaymentSuccessfulHeader</name>
+   <tag></tag>
+   <elementGuidId>2a72fc9a-f923-458b-ace2-f91de8e82186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.confirmationPaymentSuccessfulHeader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-2']/form/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70d8e37e-172a-4c8d-a353-2bf9e9f5d1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmationPaymentSuccessfulHeader</value>
+      <webElementGuid>0aa40601-0db5-4f28-8104-54f27faa108d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;confirmationList ng-star-inserted&quot;]/div[@class=&quot;successContainer&quot;]/div[@class=&quot;successSubContainer&quot;]/div[1]/div[@class=&quot;confirmationPaymentSuccessfulHeader&quot;]</value>
+      <webElementGuid>f4fabc94-e7f8-4ff6-807d-4538818b0e1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-2']/form/div/div/div/div/div</value>
+      <webElementGuid>1f9f7a08-3ac8-4b20-8684-25326062aca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::div[6]</value>
+      <webElementGuid>328a5526-166b-454e-a269-3719d3ab47c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[6]</value>
+      <webElementGuid>6b50e6ec-6e36-4639-b46a-752e6af6abca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Successful'])[1]/preceding::div[1]</value>
+      <webElementGuid>98d59479-7b38-4c34-a520-626f592b7f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Details'])[1]/preceding::div[2]</value>
+      <webElementGuid>8bdca9f2-02d2-402c-8ccf-48e1b4caea91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/div/div/div/div</value>
+      <webElementGuid>491ff82d-75a3-400b-bc7f-048258a863aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

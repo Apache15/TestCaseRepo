@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//mat-toolbar[@id='mainHeaderNav']/div/img</value>
+         <value>//img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

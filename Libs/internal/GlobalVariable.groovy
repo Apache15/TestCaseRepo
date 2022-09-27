@@ -12,12 +12,27 @@ public class GlobalVariable {
     /**
      * <p></p>
      */
-    public static Object loginUsername
+    public static Object tenantURL
      
     /**
      * <p></p>
      */
-    public static Object loginPassword
+    public static Object tenantUsername
+     
+    /**
+     * <p></p>
+     */
+    public static Object tenantPassword
+     
+    /**
+     * <p></p>
+     */
+    public static Object endClientUsername
+     
+    /**
+     * <p></p>
+     */
+    public static Object endClientPassword
      
 
     static {
@@ -26,8 +41,11 @@ public class GlobalVariable {
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
             selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters())
     
-            loginUsername = selectedVariables['loginUsername']
-            loginPassword = selectedVariables['loginPassword']
+            tenantURL = selectedVariables['tenantURL']
+            tenantUsername = selectedVariables['tenantUsername']
+            tenantPassword = selectedVariables['tenantPassword']
+            endClientUsername = selectedVariables['endClientUsername']
+            endClientPassword = selectedVariables['endClientPassword']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

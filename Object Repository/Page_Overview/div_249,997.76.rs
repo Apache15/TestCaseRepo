@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_249,997.76</name>
+   <tag></tag>
+   <elementGuidId>9a7e978d-9c39-419a-b6e9-2be1f5c05692</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='A/R by Company'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.arStats.totalOpenBalance</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>162aff13-91e0-46d3-82a9-80e161428f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arStats totalOpenBalance</value>
+      <webElementGuid>6fc32770-bb17-4088-bfd9-5d6e3c79c795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> $249,997.76 </value>
+      <webElementGuid>794fa987-6700-499b-ab29-8e98c24ec74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-overview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/app-ar-widget[@class=&quot;grid-item&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/div[@class=&quot;arHeader ng-star-inserted&quot;]/div[1]/div[@class=&quot;arStats totalOpenBalance&quot;]</value>
+      <webElementGuid>3bbb8b35-184c-44b5-bc4b-900204f3b2c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/R by Company'])[1]/following::div[3]</value>
+      <webElementGuid>033a02ff-e5fd-4bdf-ad16-c98b0afa9604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>c99a9160-6c3f-421c-bf28-f086cc89b95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$249,997.76']/parent::*</value>
+      <webElementGuid>68d3f22b-6634-4330-9a59-47b250b21844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card-content/div/div/div</value>
+      <webElementGuid>93bf1276-05a8-4ddb-9e3b-809808d22d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' $249,997.76 ' or . = ' $249,997.76 ')]</value>
+      <webElementGuid>fc565719-6eff-4c78-a45d-0c4b4c0003a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

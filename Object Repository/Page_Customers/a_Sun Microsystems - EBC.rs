@@ -6,16 +6,112 @@
    <elementGuidId>d5713691-c817-483c-89ba-91d04df821a1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.clickableLinkGeneric</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Sun Microsystems - EBC')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.clickableLinkGeneric</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ce90d42-9384-4ec1-bc65-60a7d36c77cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickableLinkGeneric</value>
+      <webElementGuid>0ab0d66a-fae7-4bf0-8927-ee87f93b2030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sun Microsystems - EBC </value>
+      <webElementGuid>452f7f30-a1cc-4b6d-9567-8837430870ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-customers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-elevation-z8 customersTable&quot;]/table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/tbody[1]/mat-row[@class=&quot;mat-row cdk-row mat-ripple element-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-company mat-column-company ng-star-inserted&quot;]/a[@class=&quot;clickableLinkGeneric&quot;]</value>
+      <webElementGuid>1de8ed54-fb87-4efc-9d36-461092091a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a98a0266-1f86-47b1-9780-b546c6bf4f58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickableLinkGeneric</value>
+      <webElementGuid>57516506-07a2-46e0-83cd-8de16a4025c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sun Microsystems - EBC </value>
+      <webElementGuid>6f2a6bbd-d720-420c-a427-6f74a6fc226d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-customers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-elevation-z8 customersTable&quot;]/table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/tbody[1]/mat-row[@class=&quot;mat-row cdk-row mat-ripple element-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-company mat-column-company ng-star-inserted&quot;]/a[@class=&quot;clickableLinkGeneric&quot;]</value>
+      <webElementGuid>4b22dd80-842f-4e55-9a7c-90f6853c3d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>61bed26c-2394-46fd-bd8d-42b2b0f13272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clickableLinkGeneric</value>
+      <webElementGuid>7acb4a21-f042-42b7-b48c-2bef2f0dbbc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sun Microsystems - EBC </value>
+      <webElementGuid>9817f488-05e3-47b6-935a-0182dedae920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-portal[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/app-customers[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-elevation-z8 customersTable&quot;]/table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/tbody[1]/mat-row[@class=&quot;mat-row cdk-row mat-ripple element-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-company mat-column-company ng-star-inserted&quot;]/a[@class=&quot;clickableLinkGeneric&quot;]</value>
+      <webElementGuid>989ef1b0-424d-4199-8b4d-e3b5b010ed17</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +129,7 @@
       <webElementGuid>a69ee8b4-b23a-4d14-8c68-74adb1169172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -118,7 +214,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sun Microsystems - EBC')]</value>
-      <webElementGuid>f5bdeb4b-a5e4-4bcc-a009-b679a415a54b</webElementGuid>
+      <webElementGuid>0a60701f-9b63-40a3-aece-9528918e4b59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Total'])[1]/following::a[1]</value>
-      <webElementGuid>8d27cd04-4045-4f0e-9102-d3e2813b1865</webElementGuid>
+      <webElementGuid>aa7032c2-0bef-44f2-97be-1035b1a7b97c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +230,71 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Invoices'])[1]/following::a[1]</value>
-      <webElementGuid>635f7533-1ded-4f4b-9db6-316393175cdd</webElementGuid>
+      <webElementGuid>080d75cb-22be-4dcb-bbb3-0be1f8bcfd4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,993.54'])[1]/preceding::a[1]</value>
+      <webElementGuid>f99e406b-07ca-4b54-8614-11d34934203a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[1]</value>
+      <webElementGuid>b3e7b3ba-56b5-4b88-9567-25dc8270e1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sun Microsystems - EBC']/parent::*</value>
+      <webElementGuid>481889bd-01cc-474f-8b8e-23c9484d8734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '')]</value>
+      <webElementGuid>0c307e7c-c843-4233-81c2-445337a5df8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>65bcfefb-9954-41fa-b03b-a18e3dcc4a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Sun Microsystems - EBC ' or . = ' Sun Microsystems - EBC ')]</value>
+      <webElementGuid>f5a01c69-1f7a-4651-84e5-0a30480dfa1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,996.76'])[1]/preceding::a[1]</value>
+      <webElementGuid>f3ae2c86-7aac-4664-ad03-5dae85b1533d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,997.76'])[1]/preceding::a[1]</value>
+      <webElementGuid>8d26144a-a328-4266-b75f-5a545c375b4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,46 +303,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,988.00'])[1]/preceding::a[1]</value>
       <webElementGuid>f095a899-7f2a-463f-8193-7cc40f667b3b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[1]</value>
-      <webElementGuid>8bdc1779-3a7a-43a0-b12e-7030638fa955</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sun Microsystems - EBC']/parent::*</value>
-      <webElementGuid>b57c9646-2b04-40f7-af3f-2bc3da6f8a64</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '')]</value>
-      <webElementGuid>a0347313-6e61-4f20-980e-7a9f08a33528</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>2ab03bde-bca0-41c1-b14b-3f96d9f1d813</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[(text() = ' Sun Microsystems - EBC ' or . = ' Sun Microsystems - EBC ')]</value>
-      <webElementGuid>04586c20-9c02-468e-a6e9-a81ddaad2d65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

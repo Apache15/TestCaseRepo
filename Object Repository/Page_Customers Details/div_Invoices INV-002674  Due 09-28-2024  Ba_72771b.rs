@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invoices INV-002674  Due 09-28-2024  Ba_72771b</name>
+   <tag></tag>
+   <elementGuidId>79684c74-d79d-457d-9bca-faa825d47f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-0']/form/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.invoiceSection</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0e2aa5b-f052-42e6-99c3-0ddbbdbfe973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invoiceSection</value>
+      <webElementGuid>3d373764-717a-4210-b77b-4dc8841cc446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invoices INV-002674  Due: 09-28-2024  Balance: $249,993.54 Amount</value>
+      <webElementGuid>e99ac66c-d4f2-4d59-a2e2-e212aaf4a232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;detailContentSpacing detailTopRow&quot;]/div[@class=&quot;invoiceSection&quot;]</value>
+      <webElementGuid>bed5ec83-ea78-4fb7-bdbf-ec9aa04988b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-0']/form/div/div[2]</value>
+      <webElementGuid>631358a4-74ac-49b6-9e3a-26c2fde89aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Payment Method'])[1]/following::div[10]</value>
+      <webElementGuid>9596a134-38ac-4423-b4e8-87ca0e05a049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VISA 100 (*9428)'])[2]/following::div[12]</value>
+      <webElementGuid>7e3fd684-7a50-4785-a7e8-59ee0bc80e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>cbe7e0fe-1b33-406c-acb8-b52c9d88851b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invoices INV-002674  Due: 09-28-2024  Balance: $249,993.54 Amount' or . = 'Invoices INV-002674  Due: 09-28-2024  Balance: $249,993.54 Amount')]</value>
+      <webElementGuid>fe1d630f-a47f-4c62-b7dc-ff5b6db565c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

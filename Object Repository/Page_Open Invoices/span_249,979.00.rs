@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_249,979.00</name>
+   <tag></tag>
+   <elementGuidId>2e4aaffe-2c32-4e56-b127-b782b6b79a20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.detailGrandTotal > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-0']/form/div[2]/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>145f9ce9-c114-46aa-89e2-5d86d474b4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$249,979.00</value>
+      <webElementGuid>02c1ce5c-ee79-4cfa-8dc1-adda4bea8e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;detailContentSpacing&quot;]/div[@class=&quot;detailAmount&quot;]/div[@class=&quot;detailGrandTotal&quot;]/span[1]</value>
+      <webElementGuid>23ad71d7-d05f-4a69-8e0c-b754a817d946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3af8143-ca05-4735-a237-f90fdd43e3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$249,979.00</value>
+      <webElementGuid>6ccd0555-d7a8-410c-a1f0-84970c23b8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-0&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-star-inserted ng-invalid&quot;]/div[@class=&quot;detailContentSpacing&quot;]/div[@class=&quot;detailAmount&quot;]/div[@class=&quot;detailGrandTotal&quot;]/span[1]</value>
+      <webElementGuid>251e096b-9719-4dbf-8f6b-55eac0f26193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-0-0']/form/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>fd253fb2-e783-456e-af98-4febd4b7f52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$249,979.00'])[2]/following::span[1]</value>
+      <webElementGuid>1f5dc44f-cda0-4c43-b529-c02b5af2781b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>9291b85a-02de-4fe3-9414-134b6a1793d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[4]</value>
+      <webElementGuid>990bc80e-858d-40f3-bf4e-5f4274a9a901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>73d9756c-12c7-4914-8d62-6e625297fdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$249,979.00' or . = '$249,979.00')]</value>
+      <webElementGuid>cb0fb349-4c28-4a4d-a4f2-08b900733671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

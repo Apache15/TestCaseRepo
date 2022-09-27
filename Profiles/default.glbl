@@ -6,12 +6,27 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'blake.engrav@bngholdingsinc.com'</initValue>
-      <name>loginUsername</name>
+      <initValue>'https://test-automation-do-not-use.dev-connectboosterportal.com/'</initValue>
+      <name>tenantURL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Password1@'</initValue>
-      <name>loginPassword</name>
+      <initValue>'blake.engrav@bngholdingsinc.com'</initValue>
+      <name>tenantUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5NKue+owstwyA=='</initValue>
+      <name>tenantPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'blake.engrav+enduser@bngholdingsinc.com'</initValue>
+      <name>endClientUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5M+OEhtE99IdA=='</initValue>
+      <name>endClientPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

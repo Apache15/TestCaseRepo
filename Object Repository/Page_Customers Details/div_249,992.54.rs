@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_249,992.54</name>
+   <tag></tag>
+   <elementGuidId>e9b86923-b49a-4dd3-b2a6-8eb88c96c8fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-invoice-information-modal/mat-toolbar/div/div[2]/div[2]/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e504e543-9044-464a-96bc-a7bdec47b173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>infoModalSubInfo</value>
+      <webElementGuid>d38bde03-317b-450c-baa5-99e745fa0308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> $249,992.54 </value>
+      <webElementGuid>06c7b117-bf21-4e07-a593-234c88c38682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-invoice-information-modal[@class=&quot;ng-star-inserted&quot;]/mat-toolbar[@class=&quot;mat-toolbar headerBar mat-primary mat-toolbar-single-row ng-star-inserted&quot;]/div[@class=&quot;infoHeader&quot;]/div[2]/div[@class=&quot;infoLeftSideTop&quot;]/div[@class=&quot;infoLeftContent&quot;]/div[@class=&quot;infoModalSubInfo&quot;]</value>
+      <webElementGuid>a8e412a8-8ada-4be3-bede-b262b2b4dee4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-invoice-information-modal/mat-toolbar/div/div[2]/div[2]/div[3]/div[2]</value>
+      <webElementGuid>be7e83ff-8afc-4728-bf89-10afb577aee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance'])[5]/following::div[1]</value>
+      <webElementGuid>8f321a14-77ab-45d3-80df-0944375bfcd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$250,000.00'])[4]/following::div[3]</value>
+      <webElementGuid>b1a7aea4-c699-4946-baa6-5f42a5d5c02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tran. Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>b424fb7c-fb33-422d-8ee8-bae01307ba1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO#'])[1]/preceding::div[4]</value>
+      <webElementGuid>cbb4717a-d836-4a43-b245-eb661d31cb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div[2]</value>
+      <webElementGuid>c46fc129-8db6-4c8c-a89f-e3c4d1946cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' $249,992.54 ' or . = ' $249,992.54 ')]</value>
+      <webElementGuid>d0c67319-83cb-4032-a2bb-54f0ec8be1a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

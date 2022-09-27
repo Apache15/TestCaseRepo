@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Profile 2</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://testsage-walker.dev-connectboosterportal.com/'</initValue>
+      <name>tenantURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'blake.engrav@bngholdingsinc.com'</initValue>
+      <name>tenantUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5NKue+owstwyA=='</initValue>
+      <name>tenantPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'blake.engrav+enduser@bngholdingsinc.com'</initValue>
+      <name>endClientUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'p4y+y39Ir5M+OEhtE99IdA=='</initValue>
+      <name>endClientPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

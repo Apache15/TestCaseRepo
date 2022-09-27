@@ -6,16 +6,96 @@
    <elementGuidId>9346781c-70a7-4c0d-9519-c56c15c9dafb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-0-2']/form/div/div/div/div/div[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='$2.00'])[5]/preceding::div[2]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84ecaede-ae9b-421a-8121-18ec0c0881dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Payment successful</value>
+      <webElementGuid>67579bb0-4186-410d-a616-d45977178a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmationPaymentSuccessfulHeader</value>
+      <webElementGuid>13d2a3af-aa78-4d23-b35d-af18e2c6dff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Payment Successful </value>
+      <webElementGuid>5294d09b-e921-40c4-a98a-733ed6094c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;confirmationList ng-star-inserted&quot;]/div[@class=&quot;successContainer&quot;]/div[@class=&quot;successSubContainer&quot;]/div[1]/div[@class=&quot;confirmationPaymentSuccessfulHeader&quot;]</value>
+      <webElementGuid>37f9fc9a-ea26-422a-b8d2-70e7493308cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b5e908c-9646-4d10-96d2-83380c31ca4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Payment successful</value>
+      <webElementGuid>56d704dd-d06b-4822-80ca-8167ebf73b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirmationPaymentSuccessfulHeader</value>
+      <webElementGuid>fd3544e2-b14a-49c8-9f98-816687ebb570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Payment Successful </value>
+      <webElementGuid>eff1272e-59d9-4b20-947a-db390050ed9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-0-2&quot;)/form[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;confirmationList ng-star-inserted&quot;]/div[@class=&quot;successContainer&quot;]/div[@class=&quot;successSubContainer&quot;]/div[1]/div[@class=&quot;confirmationPaymentSuccessfulHeader&quot;]</value>
+      <webElementGuid>437d1b34-2d62-4a31-bbba-a0dc970c43d4</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +121,7 @@
       <webElementGuid>ea1b83b5-9afd-4f59-83c5-eaf1d7624f47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cdk-step-content-0-2']/form/div/div/div/div/div[2]</value>
-      <webElementGuid>529ddc5a-362b-4daa-8080-b6c7504464c3</webElementGuid>
+      <webElementGuid>00967c58-b466-4e91-a262-d29f01bc8afe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::div[7]</value>
-      <webElementGuid>5209faf1-55e8-4f58-a1bb-c419b9fbcd88</webElementGuid>
+      <webElementGuid>5dfe6679-b71f-42ef-9b01-beb304c69d81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[7]</value>
-      <webElementGuid>99501285-cda9-439a-85e5-c718e91a5283</webElementGuid>
+      <webElementGuid>c5a03f8d-2467-4f06-80fa-7f870235ded4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +166,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Details'])[1]/preceding::div[1]</value>
-      <webElementGuid>1f8a547f-1bc1-47a4-b012-1fd56dc37703</webElementGuid>
+      <webElementGuid>9b7e4fdd-c147-4f20-afdf-4cd8a99b5976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.00'])[5]/preceding::div[2]</value>
+      <webElementGuid>f01921be-ea77-42d6-85a3-cb175091f73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payment Successful']/parent::*</value>
+      <webElementGuid>0c3ea06c-c918-47d5-8b36-5bb2c48541c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/div/div/div/div[2]</value>
+      <webElementGuid>de6a9f29-959f-4771-991f-fa0a6bd58fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Payment Successful ' or . = ' Payment Successful ')]</value>
+      <webElementGuid>bd0cafdf-b88f-45c2-b6d3-319d3eeb8664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.50'])[4]/preceding::div[2]</value>
+      <webElementGuid>3dc41f5c-84a6-4959-b147-81049586d26c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,29 +215,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$2.00'])[5]/preceding::div[2]</value>
       <webElementGuid>be58705f-6a91-4454-aa36-58d050d9eec5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Payment Successful']/parent::*</value>
-      <webElementGuid>e3057d3c-e4eb-432a-8549-4ec8d93f58c7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/form/div/div/div/div/div[2]</value>
-      <webElementGuid>b9c89e7d-a016-4455-bd4a-b574f80cb455</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = ' Payment Successful ' or . = ' Payment Successful ')]</value>
-      <webElementGuid>86cd9e97-0ab3-4042-a775-980290233112</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

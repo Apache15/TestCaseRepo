@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sun Microsystems - EBC_mat-drawer-backd_c4c05d</name>
+   <tag></tag>
+   <elementGuidId>a428ab6e-540f-4293-8f53-8111c2b4ec24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-drawer-backdrop.ng-star-inserted.mat-drawer-shown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4cdbf08-3742-4bbd-af43-2caef34cd5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-drawer-backdrop ng-star-inserted mat-drawer-shown</value>
+      <webElementGuid>5887193d-65c8-4c49-a17f-99fed5206e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-end-client[1]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container contentContainer ng-star-inserted mat-drawer-transition mat-drawer-container-has-open&quot;]/div[@class=&quot;mat-drawer-backdrop ng-star-inserted mat-drawer-shown&quot;]</value>
+      <webElementGuid>926e8bad-82a3-4bef-9ca5-7c745807b1e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>ce8147c7-4276-40bf-bac4-7c32666d8efb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
